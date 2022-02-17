@@ -4,6 +4,7 @@ const ExerciseSchema = new mongoose.Schema({
 	id: Number,
 	name: String,
 	image: String,
+	image2: String,
 	description: String,
 	categories: [
 		{

@@ -7,7 +7,7 @@ const db = mongoose.connection;
 mongoose.connect(mongoURI);
 
 db.on('error', (err) => {
-	console.log(err.message + 'is Mongod not running?');
+	console.log(err.message + 'is Mongodb not running?');
 });
 
 db.on('connected', () => {

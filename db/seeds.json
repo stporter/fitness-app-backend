@@ -2,7 +2,8 @@
     {
         "id": 1,
         "name": "Flat Barbell Bench Press",
-        "image": "blank",
+        "image": "/assets/flat-barbell-bench-press-form.png",
+        "image2":"/assets/Chest-shoulders-triceps-muscle-diagram.png",
         "description": "The barbell bench press exercise is an upper body pressing movement. Commonly used to build muscle size and body strength; this exercise targets the upper body muscles including: chest, triceps, and shoulders.The barbell bench press requires the person working out to lie flat on a bench which allows for improved muscle stability and the ability to lift a heavy amount of weight. Which will lead to greater muscle development.The barbell bench press exercise is a great for people looking to build strength, increase body size, and power.",
         "category": [
             {
@@ -19,7 +20,8 @@
     {
         "id": 2,
         "name": "Incline Barbell Bench Press",
-        "image": "blank",
+        "image": "/assets/incline-barbell-bench-press-form.png",
+        "image2":"/assets/Chest-shoulders-triceps-muscle-diagram.png",
         "description": "The incline barbell bench press is an upper body strength exercise that targets the chest, shoulder, and triceps. Performing this move on an incline allows for targeted emphasis on the upper portion of the chest. The incline also makes it safer and more joint-friendly for your shoulders.",
         "category": [
             {
@@ -33,7 +35,8 @@
         {
         "id": 3,
         "name": "Decline Barbell Bench Press",
-        "image": "blank",
+        "image": "/assets/decline-barbell-bench-press-form.png",
+        "image2":"/assets/Chest-shoulders-triceps-muscle-diagram.png",
         "description": "It's a variation of the flat bench press, a popular chest workout. In a decline bench press, the bench is set to 15 to 30 degrees on a decline. This angle places your upper body on a downward slope, which activates the lower pectoral muscles as you push weights away from your body.",
         "category": [
             {
@@ -47,7 +50,8 @@
         {
         "id": 4,
         "name": "Flat Dumbbell Bench Press",
-        "image": "blank",
+        "image": "/assets/flat-dumbbell-bench-press-form.png",
+        "image2":"/assets/Chest-shoulders-triceps-muscle-diagram.png",
         "description": "Lie on a flat bench holding a dumbbell in each hand with an overhand grip.Start by holding the dumbbells slightly wider than shoulder width apart above your shoulders. Your palms should be facing forward. Slowly bend your elbows until they are at a 90 degree angle and your upper arms are parallel to the ground. Push the weights up by straightening your arms. As you push the weights up, move your arms in an arc to bring the dumbbells together, until they meet over the center of your chest. Hold for a count of one. Lower the dumbbells by slowly bending your elbows back to 90 degrees. Continue lowering your arms until they are a little lower than parallel to the floor. (Your elbows should be pointing slightly towards the floor and you should feel a stretch in your chest muscles and shoulders.) Repeat",
         "category": [
             {
@@ -61,7 +65,8 @@
         {
         "id": 5,
         "name": "Incline Dumbbell Bench Press",
-        "image": "blank",
+        "image": "/assets/incline-dumbbell-bench-press-form.png",
+        "image2":"/assets/Chest-shoulders-triceps-muscle-diagram.png",
         "description": "Set up an incline bench so the back rest is at about a 45 degree angle. Hold a dumbbell in each hand with an overhand grip. (Palms facing away from you) Sit on the bench with your feet flat on the floor and your back and shoulders pressed firmly back against the back rest. Raise the dumbbells up to your shoulder level, keeping your elbows bent at 90 degrees. Push the dumbbells up and away from you using your shoulders and chest while straightening your arms. Continue raising the dumbbells until your arms are straight and the dumbbells are suspended above your chest. Hold for a count of one. Lower the dumbbells back towards your chest by relaxing your chest and shoulders while bending your elbows. Hold for a count of one Repeat.",
         "category": [
             {
@@ -74,7 +79,8 @@
         {
         "id": 6,
         "name": "Decline Dumbbell Bench Press",
-        "image": "blank",
+        "image": "/assets/decline-dumbbell-bench-press-form.png",
+        "image2":"/assets/Chest-shoulders-triceps-muscle-diagram.png",
         "description": "Sit on a decline bench and place your feet under the leg brace. Rest a dumbbell on each thigh. Grab hold of the dumbbells with an overhand grip and lie back on the bench. Position the dumbbells on either side of your chest. Your palms should face outwards and your arms should be bent under each weight. Slowly press the dumbbells up from the elbows until your arms are fully extended over your chest. Return to the starting position by lowering the dumbbells to either side of your chest again. You should feel a slight stretch in your chest and shoulders.",
         "category": [
             {
@@ -87,7 +93,7 @@
         {
         "id": 7,
         "name": "Flat Bench Dumbbell Flys",
-        "image": "blank",
+        "image": "/assets/flat-bench-dumbbell-fly-form.png",
         "description": "Holding a pair of dumbbells, sit on a flat bench and slowly lower yourself back. Keep a tight core as you push the dumbbells above your chest. The dumbbells will be facing one another and held together. With a slight bend in the elbow, open up your chest and slowly lower the dumbbells to the sides. When the dumbbells are parallel with the ground, pause, and return to the starting position.",
         "category": [
             {
@@ -100,7 +106,7 @@
             {
         "id": 7,
         "name": "Incline Bench Dumbbell Flys",
-        "image": "blank",
+        "image": "/assets/incline-dumbbell-fly-form.png",
         "description": "Set up an incline bench at about 30 degrees. Lie on the bench and hold a dumbbell in each hand with an overhand grip. Make sure you keep your back flat and your shoulders pushed back Turn your hands in so that your palms are facing each other, holding the dumbbells over your chest with your elbows slightly bent and pointing outwards. (As if you are hugging someone) Lower the dumbbells out to the side of your shoulders, while keeping your elbows slightly bent in a smooth arcing motion. Continue lowering them until you feel a stretch in your chest and shoulders. Pause for a count of one. Bring the dumbbells back to the starting position in the same smooth arc with your elbows slightly bent until the dumbbells are nearly touching. Repeat",
         "category": [
             {
@@ -112,7 +118,7 @@
         {
         "id": 8,
         "name": "Decline Bench Dumbbell Flys",
-        "image": "blank",
+        "image": "/assets/decline-dumbbell-fly-form.png",
         "description": "Place a pair of dumbbells on the floor next to a decline bench. Secure yourself in the bench. Pick up dumbbells and hold them above you with a slight bend in the elbow. Keeping the dumbbells in line with your chest, slowly open up your arms to the sides. Stop when your upper arms are parallel with the floor. Squeeze your chest muscles and slowly return to starting position. Repeat.",
         "category": [
             {
@@ -124,8 +130,8 @@
         {
         "id": 9,
         "name": "Seated Machine Fly",
-        "image": "blank",
-        "description": "Sit on a pec deck machine with your back flat against the back rest. Grip the handles and make sure your arms are parallel to the floor. If not parallel, adjust the seat or handles accordingly. This is the start position. Exhale and slowly push the handles together  squeezing your chest to the middle as you do so. Hold for a count of one. Inhale as you return to the starting position in a controlled movement. Repeat.",
+        "image": "/assets/machine-fly-form.png",
+        "description": "Sit on a pec deck machine with your back flat against the back rest. Grip the handles and make sure your arms are parallel to the floor. If not parallel, adjust the seat or handles accordingly. This is the start position. Exhale and slowly push the handles together squeezing your chest to the middle as you do so. Hold for a count of one. Inhale as you return to the starting position in a controlled movement. Repeat.",
         "category": [
             {
                 "primaryMuscleGroup": "Chest",
@@ -137,7 +143,7 @@
     {
         "id": 10,
         "name": "Standing Cable Crossover",
-        "image": "blank",
+        "image": "/assets/standing-cable-crossover.png",
         "description": "Stand between two cable stations with the dumbbell grip handles attached to the high pulleys on each side of you. Hold the handles with an overhand grip. Your arms should be outstretched. Bend your knees and hips slightly so that you are leaning forward, but not too far. Bend your elbows slightly and rotate your shoulders in towards the centre of your chest a little. Your elbows should be slightly behind you. Use a hugging motion, keeping your elbows in a fixed, bent position to bring the grip attachments together in front of your chest. Slowly return to the starting position until you feel a slight stretch in your chest muscles. Repeat.",
         "category": [
             {
