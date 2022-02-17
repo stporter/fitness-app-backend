@@ -1624,66 +1624,683 @@
         ]
     },
                  {
-        "id": 124,
-        "name": "Sumo Barbell Deadlift",
+        "id": 127,
+        "name": "Barbell Front Raises",
         "image": "blank",
-        "description": "Place a loaded barbell in front of you. Position your feet wider than shoulder width. Have your toes pointing out away from the body. Tighten the core and straighten the lower back. Bend at the knees, lowering your hips down above parallel. Take hold of the barbell with an overhand grip at shoulder width. Focusing the tension in your hamstrings, pull the barbell up. Be sure to keep the barbell close to your body. Drive your hips forward at the top of the movement. Slowly reverse the movement and lower the barbell while maintaining a flat back.",
+        "description": "Place a light-weighted barbell in front of you at your shins. Squat down into position, driving your hips back. Keep your chest and head up. Place your hands in an overhand grip on the barbell. Stand up with a tight core and flat back. Keeping a slight bend in the elbows, raise the bar up and in front of you. Pause when your arms are parallel with the ground. Slowly lower the barbell to your hip. Repeat the movement.",
         "category": [
             {
-                "primaryMuscleGroup": "Hamstrings, Glutes, Quadriceps",
-                "secondaryMuscleGroup": "Hip Flexors and Lower Back"
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Upper Back and Lower Traps"
    
             }
         ]
     },
                  {
-        "id": 124,
-        "name": "Sumo Barbell Deadlift",
+        "id": 128,
+        "name": "Barbell Cleans",
         "image": "blank",
-        "description": "Place a loaded barbell in front of you. Position your feet wider than shoulder width. Have your toes pointing out away from the body. Tighten the core and straighten the lower back. Bend at the knees, lowering your hips down above parallel. Take hold of the barbell with an overhand grip at shoulder width. Focusing the tension in your hamstrings, pull the barbell up. Be sure to keep the barbell close to your body. Drive your hips forward at the top of the movement. Slowly reverse the movement and lower the barbell while maintaining a flat back.",
+        "description": "Stand with your feet a little wider than shoulder width apart with your hands firmly gripped on the barbell at about the same width as your feet. The barbell should be resting on your upper thighs Using your hips for initial explosiveness, thrust them forward into the barbell At the same time bring the barbell up along your body using the initial thrust Finish with the barbell resting across your upper pectoral muscles",
         "category": [
             {
-                "primaryMuscleGroup": "Hamstrings, Glutes, Quadriceps",
-                "secondaryMuscleGroup": "Hip Flexors and Lower Back"
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Middle Back / Lats, Upper Back & Lower Traps"
    
             }
         ]
     },
                  {
-        "id": 124,
-        "name": "Sumo Barbell Deadlift",
+        "id": 129,
+        "name": "Barbell Clean and Press",
         "image": "blank",
-        "description": "Place a loaded barbell in front of you. Position your feet wider than shoulder width. Have your toes pointing out away from the body. Tighten the core and straighten the lower back. Bend at the knees, lowering your hips down above parallel. Take hold of the barbell with an overhand grip at shoulder width. Focusing the tension in your hamstrings, pull the barbell up. Be sure to keep the barbell close to your body. Drive your hips forward at the top of the movement. Slowly reverse the movement and lower the barbell while maintaining a flat back.",
+        "description": "Shoulder-width stance. Tight core and flat back. Bend at the knees and hips. Lower yourself. Arms fully extended. Chest up and gaze straight ahead. Bring knees in and shoulders up. Drive hips forward. Keep the bar close to your body. Forcefully exhale and perform a full extension of the knees and hips. Use the momentum to bring elbows high. Rotate your elbows around and under the bar. Rack the bar across the front of your shoulders. Press the barbell above your head. Lower the bar.",
         "category": [
             {
-                "primaryMuscleGroup": "Hamstrings, Glutes, Quadriceps",
-                "secondaryMuscleGroup": "Hip Flexors and Lower Back"
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Calves, Glutes & Hip Flexors, Hamstrings, Lower Back, Quadriceps"
    
             }
         ]
     },
                  {
-        "id": 124,
-        "name": "Sumo Barbell Deadlift",
+        "id": 130,
+        "name": "Barbell High Pull",
         "image": "blank",
-        "description": "Place a loaded barbell in front of you. Position your feet wider than shoulder width. Have your toes pointing out away from the body. Tighten the core and straighten the lower back. Bend at the knees, lowering your hips down above parallel. Take hold of the barbell with an overhand grip at shoulder width. Focusing the tension in your hamstrings, pull the barbell up. Be sure to keep the barbell close to your body. Drive your hips forward at the top of the movement. Slowly reverse the movement and lower the barbell while maintaining a flat back.",
+        "description": "Prepare a barbell with a lighter amount of weight than usual. Place the barbell in front of you at your shins. Squat down into position, driving your hips back. Keep your chest and head up. Place your hands in an overhand grip on the barbell. Your arms should be straight with a slight bend at the elbow. In one fluid motion, explode up and off the ground as you pull the bar high, leading with your elbows. Your feet will leave the ground. Land softly and lower yourself back to the starting position.",
         "category": [
             {
-                "primaryMuscleGroup": "Hamstrings, Glutes, Quadriceps",
-                "secondaryMuscleGroup": "Hip Flexors and Lower Back"
+                "primaryMuscleGroup": "Hamstrings, Quadriceps, Shoulders",
+                "secondaryMuscleGroup": "Glutes & Hip Flexors, Lower Back"
    
             }
         ]
     },
                  {
-        "id": 124,
-        "name": "Sumo Barbell Deadlift",
+        "id": 131,
+        "name": "Barbell Push Press",
         "image": "blank",
-        "description": "Place a loaded barbell in front of you. Position your feet wider than shoulder width. Have your toes pointing out away from the body. Tighten the core and straighten the lower back. Bend at the knees, lowering your hips down above parallel. Take hold of the barbell with an overhand grip at shoulder width. Focusing the tension in your hamstrings, pull the barbell up. Be sure to keep the barbell close to your body. Drive your hips forward at the top of the movement. Slowly reverse the movement and lower the barbell while maintaining a flat back.",
+        "description": "Stand with feet hip width apart and grasp a barbell with an overhand grip. Make sure your hands are placed slightly wider than shoulder-width. Bring the bar to chest height and slightly retract your head back. Bend the knees, hips and ankles to dip slightly. Use your legs to explosively drive your body upwards and drive the barbell off your shoulders, extending your arms overhead. Lower the bar to your shoulders and repeat.",
         "category": [
             {
-                "primaryMuscleGroup": "Hamstrings, Glutes, Quadriceps",
-                "secondaryMuscleGroup": "Hip Flexors and Lower Back"
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Glutes & Hip Flexors, Quadriceps, Triceps"
+   
+            }
+        ]
+    },
+                    {
+        "id": 132,
+        "name": "Barbell Shoulder Press",
+        "image": "blank",
+        "description": "Place a bench with a back support inside a squat rack and set up a barbell at a height that is just above your head. Grip the barbell with an overhand grip. Space your hands out so that your elbows are bent at 90 degrees. Lift the bar to around shoulder level by extending your arms.  This is the start position. Inhaling, lower the bar  to your shoulders slowly. Hold for a count of one while squeezing your shoulder muscles. Push the barbell back to the start position as you exhaling as you do so.. Repeat for the recommended amount of repetitions.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Triceps, Upper Back & Lower Traps"
+   
+            }
+        ]
+    },
+                    {
+        "id": 133,
+        "name": "Cable Upright Rows",
+        "image": "blank",
+        "description": "Attach a straight bar to the low pulley on the cable station. Stand facing the station with your feet shoulder width apart either side of the pulley. Grip the bar with an overhand grip, with your hands shoulder width apart and arms fully extended. Keep your shoulders back. Raise the bar straight up in one smooth movement, until it is just below your chin. Hold for a count of one while squeezing your biceps and forearms. Slowly lower to the start position and repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Upper Back & Lower Traps"
+   
+            }
+        ]
+    },
+                    {
+        "id": 134,
+        "name": "Two Arm Dumbbell Front Shoulder Raises",
+        "image": "blank",
+        "description": "Holding a pair of dumbbells with an overhand grip, stand tall with your chest up and core braced. Begin by lifting the dumbbells in front of you. Keep the abdominals contracted as you raise the dumbbells. Feel the contraction in the shoulder muscles. Once the dumbbells reach shoulder height, pause and slowly lower the dumbbells to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Neck & Upper Traps, Shoulders"
+   
+            }
+        ]
+    },
+                    {
+        "id": 135,
+        "name": "Dumbbell Bent Over Lateral Rear Delt Raises",
+        "image": "blank",
+        "description": " Begin by holding a pair of dumbbells and standing with a braced core. Bend at the knees slightly and lean forward from the hips. Maintain a flat back throughout. Keeping your elbows slightly bent throughout the movement, lift the dumbbells up and out to the side. Be sure to focus the contraction in the back of the shoulders. Pause at the top of the movement then slowly bring the dumbbells to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders"
+   
+            }
+        ]
+    },
+                    {
+        "id": 136,
+        "name": "Seated Dumbbell Shoulder Press",
+        "image": "blank",
+        "description": "Sit on a military press bench or bench that has a back support, holding a dumbbell in each hand with an overhand grip. Place the dumbbells on top of your thighs with your palms facing down. Raise the dumbbells to your shoulders. Rotate your wrists so that the palms of your hands are facing away from you. This is the start position. As you exhale,  push the dumbbells up and over your head by extending your arms until the dumbbells touch at the top of the movement. Pause for a count of one. Slowly return to the start position inhaling as you do so. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders"
+   
+            }
+        ]
+    },
+                    {
+        "id": 137,
+        "name": "Dumbbell Shrugs",
+        "image": "blank",
+        "description": "Stand with your feet shoulder width apart and a dumbbell in each hand. Keep your arms extended and by your sides and with your palms facing in. Relax your shoulders so they hang as low as possible. Raise the dumbbells by slowly lifting your shoulders in a shrugging motion. Hold for a count of one. Slowly relax your shoulders to return to the start position. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders and Traps"
+            }
+        ]
+    },
+                    {
+        "id": 138,
+        "name": "External Cable Shoulder Rotation",
+        "image": "blank",
+        "description": "Adjust a cable machine to have the pulley handle be at the height as your elbow. Stand sideways next to the cable machine while holding the handle in the opposite hand. Tighten your core and keep your feet planted firmly. Slowly pull the handle across your body only moving the forearm. Once your hand is outside of your body, pause and feel the tension in the shoulder muscle. Slowly return to the starting position but do not allow the weight plate to touch the stack.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders"
+   
+            }
+        ]
+    },
+                    {
+        "id": 139,
+        "name": "Face Pull",
+        "image": "blank",
+        "description": "Stand tall facing a pulley that has been adjusted to higher than head-height. Attach a rope or dual handles to the pulley and grab hold of each end with your palms facing your head. Engage your abs and pull the weight towards your face. Separate your hands as you pull.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Upper Back and Traps"
+   
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "name": "Farmers Carry",
+        "image": "blank",
+        "description": "Place a pair of dumbbells or kettlebells at your feet. Brace your core and keep your chest up as you kneel down. Pick the dumbbells up, maintaining your form and keeping your gaze straight ahead. Standing up, walk forward in a straight line, holding the dumbbells at your sides. The trick is to use very heavy dumbbells. Walk as far as you can then set the weights down. Take a short break and repeat going back the other way.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Forearms, Neck & Upper Traps, Shoulders",
+                "secondaryMuscleGroup": "Hamstrings, Quadriceps"
+   
+            }
+        ]
+    },
+        {
+        "id": 141,
+        "name": "Front Shoulder Dumbbell Raises",
+        "image": "blank",
+        "description": "Stand straight holding a dumbbell in each hand with an overhand grip. Hold the dumbbells in in front of your thighs with your palms of the facing your thighs. Keep your arms fully extended. This is the start position. Raise the left dumbbell out and upwards, while keeping a slight bend in your elbow. Your palms must always face down for this exercise. Continue raising the dumbbell until you arm is a little above parallel to the floor. Exhale as you are raising the dumbbell. Pause for a count of one. Inhale and slowly lower the dumbbell to the start position. As you lower the left dumbbell, begin to lift the right dumbbell, duplicating the movement. When both dumbbells have been raised and lowered in a cycle, that is one repetition. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders"
+   
+            }
+        ]
+    },
+        {
+        "id": 142,
+        "name": "Internal Cable Shoulder Rotation",
+        "image": "blank",
+        "description": "Stand next to a cable machine with your left side facing it. Make sure the cable handle has been adjusted to the height of your lower chest. Hold the handle in your left hand. Stand tall with your chest up and core braced. Begin the movement by shifting your left hand across your body. Your left upper arm should remain in place, held close to your side. Pause once the handle has moved across your body and slowly release to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders"
+   
+            }
+        ]
+    },
+        {
+        "id": 143,
+        "name": "Landmine Presses",
+        "image": "blank",
+        "description": "Using a T-Bar, load the amount of weight you’d like to work with (start out lighter to master the form before increasing the load). Grip the top of the barbell so that your hands overlap, and your palms are facing inward. Squat so that your knees are at a 90 degree bend with the top of the barbell almost resting on your chest. Make sure your elbows are low and close to your body and not flaring out. With an explosive movement, push through your legs and drive the end of the barbell away from your body.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders and Chest",
+                "secondaryMuscleGroup": "Triceps"
+   
+            }
+        ]
+    },
+        {
+        "id": 144,
+        "name": "Dumbbell Lateral Raises",
+        "image": "blank",
+        "description": "Stand with your back straight, feet shoulder width apart, while holding a dumbbell in each hand with a neutral grip. Hold your arms fully extended by your side, with your palms facing in to your body. Keep your elbows close to your sides. This is the start position. Keeping your arms fully extended and your torso stationary, lift the dumbbells out to your sides and up until they are at shoulder level. Exhale as you do so. Hold for a count of one while squeezing your shoulder muscles. Return to the start position in a smooth controlled movement inhaling as you do so. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders"
+            }
+        ]
+    },
+        {
+        "id": 145,
+        "name": "Shoulder Lateral Machine Raises",
+        "image": "blank",
+        "description": "Sit in the lateral raise machine while keeping your core tight and back flat. Grab and secure the handles of the machine. Slowly, extend your arms up and out to the side. Feel the tension in your shoulders, pause at the top, and slowly return to the starting position. Do not allow the weight stack to touch. Repeat the movement.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders"
+   
+            }
+        ]
+    },
+        {
+        "id": 146,
+        "name": "Seated Machine Shoulder Press",
+        "image": "blank",
+        "description": " Keep a tight core and flat back as you remain seated in the shoulder press machine. Look straight ahead as you hold on to the handles. Slowly, press the handles up above your head. Do not lock out your elbow. Slowly, bring the handles back down but do not let the weight stack touch. Repeat the movement.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Triceps"
+   
+            }
+        ]
+    },
+        {
+        "id": 147,
+        "name": "Rear Delt Machine Flys",
+        "image": "blank",
+        "description": "Adjust the seat on the Rear Delt Machine so that your chest is against the padding and the handles are at shoulder level. Tighten your core throughout the movement. Holding on to the handles in front of you, engage your rear delt muscles (back of the shoulder). Pull the weight, focusing all of the tension in your shoulder muscles Pause when the handles are at your sides then slowly return to the starting position. Do not allow the plate to touch the weight stack.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Traps and Upper Back"
+   
+            }
+        ]
+    },
+        {
+        "id": 148,
+        "name": "Reverse FLys",
+        "image": "blank",
+        "description": "With a dumbbell in each hand in a neutral grip, lie face down on an incline bench. Your palms should be facing inwards. Extend your arms out in front of you so that they are at right angles to the bench. Keep your legs stationary but with pressure on the balls of our feet and toes. This is the start position. Keeping a slight bend in your elbows, move the weights away from each other in an arcing motion exhaling as you do so. Continue expanding your arms until they are parallel to the floor. Hold and squeeze your shoulder blades together Return to the starting position inhaling as you do so. Repeat .",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Upper Back and Lower Traps"
+   
+            }
+        ]
+    },
+        {
+        "id": 149,
+        "name": "Seated / Bent Over Rear Delt Raises",
+        "image": "blank",
+        "description": "Sit on a bench, holding a dumbbell in each hand. Your hands should be at your sides. Bend forward at the hips while maintaining a tight core and flat back. Keep your gaze at the ground. Be sure to maintain this position along with a slight bend in your elbows at all times. Extend your arms out to the side and guide the weight up. Your arms should come to parallel with the floor. Pause, slowly lower the weight back to the starting position. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Upper Back and Lower Traps"
+   
+            }
+        ]
+    },
+        {
+        "id": 150,
+        "name": "Seated Arnold Dumbbell Press",
+        "image": "blank",
+        "description": "Begin by sitting on a flat bench. Hold the dumbbell at your side with an overhand grip. Tighten your core and flatten your back. Bring the dumbbells up to shoulder height so that your palm are facing you. Push the dumbbells overhead. Rotate them as you do so. At the height of the movement, your palms should be facing away from you. Pause, contract and slowly return to the starting point through the same rotation.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Biceps, Neck & Upper Traps, Triceps"
+   
+            }
+        ]
+    },
+        {
+        "id": 151,
+        "name": "Seated Barbell Military Press",
+        "image": "blank",
+        "description": "Set up a barbell on a weight rack, so that it is at the same height as your shoulders when seated. Position a flat bench with your back facing the barbell. Keeping your back straight, take the barbell from the rack using on overhand grip, with your hands wider than shoulder width apart. They should be wide enough that your elbows are bent at 90 degrees at the low position. Lift the bar up and slightly over your head by pushing up and locking your arms. This is the start position. Inhale and slowly lower the bar down to shoulder level in a straight line. Hold for a count of one while squeezing your triceps and shoulder muscles. Exhale and push the bar back up to the start position. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Triceps, Lower Traps, and Upper Back"
+   
+            }
+        ]
+    },
+           {
+        "id": 152,
+        "name": "Seated Dual Front Raises",
+        "image": "blank",
+        "description": "Sit on a bench/chair with your back straight and your arms straight along your sides with the dumbbells help in an overhand grip. Bring both dumbbells up in front of your body, keeping only a slight bend at your elbow. Raise the dumbbells until they are both at about eye level and be sure to brace your core and keep your back supported by the bench/chair. Lower the dumbbells back down to your sides, and prepare for that next rep!.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders"
+   
+            }
+        ]
+    },
+           {
+        "id": 153,
+        "name": "Seated Dumbbell Lateral Raises",
+        "image": "blank",
+        "description": "Sit on a bench, holding a dumbbell in each hand. Your hands should be at your sides. Maintain a flat back and tight core. Look straight ahead during the movement. Be sure to maintain a slight bend in your elbows at all times. Extend your arms out to the side and guide the weight up. Your arms should come to parallel with the floor. Pause, slowly lower the weight back to the starting position. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Neck and Upper Traps"
+   
+            }
+        ]
+    },
+           {
+        "id": 154,
+        "name": "Seated Shoulder Hammer Overhead Press",
+        "image": "blank",
+        "description": "Sit on a bench/chair with your back straight and the dumbbells in a hammer grip so that the dumbbells run lengthways along the side of your face. Drive both weights, simultaneously upwards, until your reach a full overhead extension.   Carefully lower the dumbbells back down to the starting position, maintaining the hammer grip all the way through the movement. Be sure to keep your core strong and lower back connected to the bench/chair at all times.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Triceps and Chest"
+   
+            }
+        ]
+    },
+           {
+        "id": 155,
+        "name": "Seated Single Arm Overhead Dumbbell Tricep Extensions",
+        "image": "blank",
+        "description": "Sit on a bench while holding a dumbbell in your left hand with an overhand grip. Tighten your core and straighten your lower back. Lift the dumbbell to shoulder height. Push the dumbbell overhead with your palm facing forward. Keep the upper arm in place. Slowly bend at the elbow and lower the weight behind your head. Push the dumbbell back up over your head squeezing the tricep muscle. Immediately begin the next repetition. Switch sides once you have completed all repetitions.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Triceps",
+                "secondaryMuscleGroup": "Shoulders"
+   
+            }
+        ]
+    },
+           {
+        "id": 156,
+        "name": "Single Arm Cable Lateral / Side Raise",
+        "image": "blank",
+        "description": "Stand with your right side to a cable machine. Reach across your body with the left hand and grab the handle of the pulley. Stand with a braced core and maintain a slight bend in the elbows throughout. Lifting from the shoulder, pull your left hand up and to the side. Pause at the top of the movement. Slowly lower the handle but do not allow the weight to touch the stack.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders"
+   
+            }
+        ]
+    },
+           {
+        "id": 157,
+        "name": "Standing Single Arm Dumbbell Lateral Raises",
+        "image": "blank",
+        "description": "Hold one dumbbell at each side of your body. Keep your back straight and your knees ever-so-slightly bent. Raise one dumbbell out to the side, keeping your arm slightly bent. Once the dumbbell reaches the same level as your ear slowly lower it back down to the starting position. Repeat the same movement on the opposite side.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders"
+   
+            }
+        ]
+    },
+           {
+        "id": 158,
+        "name": "Standing Barbell Military Press",
+        "image": "blank",
+        "description": "Hold a barbell with an overhand grip in a standing position. Your feet should be shoulder-width apart. Maintain a tight core and flat lower back throughout. Bring the barbell to shoulder height with your palms facing out. Begin by pushing the barbell straight overhead. Focus on contracting the shoulders while driving the glutes forward for stability. Once you reach the top, slowly bring the barbell to the starting position but do not allow it to rest on your shoulders. Immediately, move into the next repetition.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders"
+   
+            }
+        ]
+    },
+           {
+        "id": 159,
+        "name": "Standing Dumbbell Overhead Shoulder Press",
+        "image": "blank",
+        "description": "Holding a dumbbell in each hand, stand straight, with your feet shoulder width apart. Raise the dumbbells to head height by rotating your arms forward and up. Your triceps should be parallel to the floor and your elbows bent at 90 degrees. This is the start position. Keeping your back straight and using only your arms, extend through your shoulders and elbows to drive the dumbbells straight up, exhaling as you do so. As your arms reach the fully extended position, bring them in towards each other until the dumbbells touch lightly together. Hold for a count of one, while squeezing your shoulder muscles. In a controlled movement, return to the starting position, inhaling as you do so. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Neck & Upper Traps, Triceps"
+   
+            }
+        ]
+    },
+           {
+        "id": 160,
+        "name": "Upright Barbell Rows",
+        "image": "blank",
+        "description": "Stand with your back straight, holding a barbell with an overhand grip slightly less than shoulder width apart. The bar should be level with the tops of your thighs. Keep your arms extended with a slight bend at the elbows. This is the start position. Exhale and using the sides of your shoulders lift the bar. As you do so, raise your elbows up and out to the side. Keep the bar close to your body as you raise it. Continue  lifting the bar until it is just below your chin. Pause for a count of one. Return to the start position in a single smooth movement. Inhale as you do so. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Neck & Upper Traps"
+   
+            }
+        ]
+    },
+           {
+        "id": 161,
+        "name": "Dumbbell Upright Rows",
+        "image": "blank",
+        "description": " Holding a dumbbell in each hand, stand with your feet shoulder width apart. The dumbbells should be resting on your thighs with your palms facing in. Lift the dumbbells straight up in single smooth movement until they are just below your chin making sure to keep your shoulders back and your elbows out. At the top of the movement, flex or squeeze your biceps and forearms. Hold for a count of one. Return to the starting position slowly to keep tension on the muscles. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Shoulders",
+                "secondaryMuscleGroup": "Biceps, Forearms, Upper Back & Lower Traps"
+   
+            }
+        ]
+    },
+           {
+        "id": 162,
+        "name": "Ab Crunch Machine",
+        "image": "blank",
+        "description": "Sit on the ab machine and select a slight resistance. Position your feet under the pads and grab hold of the top handles. Make sure your arms are bent at 90 degrees and rest your triceps on the pads. Begin lifting your legs up as you engage your abs and crunch your upper torso. Exhale as you do so. Pause and slowly return to starting position as you inhale.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+            {
+        "id": 163,
+        "name": "Ab Wheel Rollout",
+        "image": "blank",
+        "description": "Kneel on the floor on all fours and place the ab roller in front of you. Grab hold of either end of the roller with each hand. Engage your abs and slowly roll the roller forward in a straight line until your body stretches in a straight position. Try to roll down as far as you can without touching the floor. Inhale in as you roll down. Pull yourself back to the starting position by exhaling and rolling back slowly. Maintain tight abs throughout the movement.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+            {
+        "id": 164,
+        "name": "Alternate Heel Touches / Lying Oblique Reach",
+        "image": "blank",
+        "description": "Lie on an exercise mat, with your back flat, knees bent and your feet flat on the floor slightly wider than shoulder-width apart. Fully extend your arms down the side of your body, palms facing in. This is the start position. Exhaling, crunch your torso forward and to the right until you can touch your right heel with your right hand. Hold for a count of one. Return to the starting position smooth motion, inhaling as you do so. Repeat the movement, this time to your left side. When you have completed the movement on both sides, you have done one repetition. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals and Obliques"
+   
+            }
+        ]
+    },
+            {
+        "id": 165,
+        "name": "Bicycles",
+        "image": "blank",
+        "description": "Lie flat on an exercise mat on the floor keeping your lower back straight with no arching of your spine and with your knees bent and feet flat on the floor. Place your hands lightly on the sides of your head. Curl your torso upwards so your shoulders are slightly raised off the floor.. Raise your knees until your thighs are at a right angle to the floor and your calves are parallel to the floor. This is the start position. Slowly move your legs in a pedaling action as if you are riding a bicycle. As you do so, exhale and bring your opposing elbow close to each knee by crunching to one side. Left elbow to right knee. Right elbow to left knee. After each crunch, return to the start position inhaling as you do so. Without pausing, repeat the movement to the other side. Repeat without pausing for the desired number of repetitions to each side.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals and Obliques"
+   
+            }
+        ]
+    },
+            {
+        "id": 166,
+        "name": "Bird Dogs",
+        "image": "blank",
+        "description": "Position yourself on all fours with knees underneath the hips and wrists under the shoulders. Engage your abs and keep your spine neutral, pulling the shoulder blades towards the hips. Lengthen the left leg until it is straight out and in line with your hips while simultaneously raising and straightening your right arm until it is parallel to the floor. Keep your head and shoulders aligned at all times. Gently lower your arm and leg back to the starting position and alternate with the other arm and leg.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals",
+                "secondaryMuscleGroup": "Glutes and Hip Flexors"
+   
+            }
+        ]
+    },
+            {
+        "id": 167,
+        "name": "Cable Core Rotation",
+        "image": "blank",
+        "description": "Adjust the pulley handle to chest height. Step out and away from the weight. Feet are shoulder-width. Stand with a tight core and flat back. Push the handle out in front of you. Keep elbows slightly bent. Twist from the hips. Move arms across the body, achieving a full extension. Return to starting position. Once complete, do the same amount of sets/reps on the other side.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals and Obliques"
+   
+            }
+        ]
+    },
+            {
+        "id": 168,
+        "name": "Kings Chair Leg / Knee Raises",
+        "image": "blank",
+        "description": "Place your forearms are on the pads or bars of the apparatus you are using and grip the handles or bars. Your arms should be bent at 90 degrees and your upper arms in a straight line with your sides. Your torso should be straight and your lower back pressed against the pad of the bench if using one. Keep your legs extended and pointing down to the floor. This is the start position. Exhale and as you do so, lift your legs up in a smooth arc bending at the knees until your thighs are about parallel to the floor. Hold for a count of one. Return to the start position in a smooth, controlled movement while inhaling. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+            {
+        "id": 169,
+        "name": "Cross Body Mountain Climbers",
+        "image": "blank",
+        "description": "Assume a push-up position. Core is tight. Back is flat. Hands are underneath the shoulders. Head is in neutral position. Bring one knee up towards your chest and twist towards the opposing elbow. (Ex: Right knee to left elbow.) Contract the core and return the leg to the starting position. Alternate between legs.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+            {
+        "id": 170,
+        "name": "Crunches",
+        "image": "blank",
+        "description": "Lie flat on your back with your feet flat on the ground, with your knees bent at 90 degrees. Alternatively, you can place your feet up on a bench a few inches apart with your toes turned inwards and touching. Place your hands lightly on either side of your head. Keep your elbows in  so that they are parallel to your body. Push your back down flat into the floor to isolate your abdominal muscles. Gently curl your shoulders forward and up off the floor. Continue to push down into the floor with your lower back. Raise your shoulders about four to six inches only. Hold and squeeze your abdominal muscles for a count of one. Return to the start position in a smooth movement.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+            {
+        "id": 171,
+        "name": "Dead bug",
+        "image": "blank",
+        "description": "Lie on your back. Extend hands straight above towards the ceiling. Bring your knees up to a 90-degree angle. Shins should be parallel to the floor. Exhale and bring hips off the floor. Begin by extending one leg forward. The foot should be hovering just above the ground. Pause then return the leg to its starting position while extending the opposing leg. Keep alternating legs while maintaining a tight core.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+            {
+        "id": 172,
+        "name": "Decline Bench Crunches / Sit-ups",
+        "image": "blank",
+        "description": "Position yourself on a decline bench so that your feet are secured by the pads. Lay back and place your arms across your chest or behind your head. Begin the movement by pulling yourself up by your abdominals. Do not force yourself up by pulling on your neck. Let your abs do all the work. Once at the top, slowly lower yourself back down. Again, focus on the abs doing all of the work. Repeat by bringing yourself back up.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+            {
+        "id": 173,
+        "name": "Double Crunches",
+        "image": "blank",
+        "description": "Lie on your back. Bring your knees up to a 90-degree angle. Shins should be parallel to the floor. Place your hands behind your head and bring your shoulders off the ground. Exhale and contract your abdominals. Bring your head towards your knees while moving your knees toward your chest. Pause and return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+               {
+        "id": 174,
+        "name": "Double Side Jackknifes",
+        "image": "blank",
+        "description": "Bring yourself to the ground and lie on your left side. Be sure to stack your feet. Place your left hand on your side while raising your right arm above your head so that the elbow is pointing towards the sky. Focusing all of the tension and contraction in the obliques, bring your feet up while you raise your upper body. Lead with the right elbow. Hold the contraction and slowly return to the starting position. Do not allow your feet or shoulder to touch the ground. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+               {
+        "id": 175,
+        "name": "Downward Cable Wood Chops",
+        "image": "blank",
+        "description": "Adjust the pulley lever to be above you. Stand next to a pulley machine with your left side. Grab the handle with both hands. Brace your core and separate your feet to outside of shoulder width. Begin the movement by twisting with your obliques to pull the handle down and across your body. Once the handle is on the right side of your body, pause and slowly return the handle to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+               {
+        "id": 176,
+        "name": "Flutter Kicks",
+        "image": "blank",
+        "description": "Lie on a mat with your hands under your buttocks and raise your legs slightly, keeping knees straight and ankles together. Keep abs engaged and perform short kicks in an alternating fashion. Repeat as needed and then lower legs to the ground.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+               {
+        "id": 177,
+        "name": "Hanging Knee Raises",
+        "image": "blank",
+        "description": "Position yourself underneath a pull-up bar. Reach overhead, taking a grip that is at or just outside of shoulder-width. Place a slight bend in the elbows at all times. Breathe out forcefully as you bring your knees up and towards your chest. Minimize swinging by contracting your abdominals throughout. Pause at the top of the movement. Slowly bring your knees to the starting position. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+               {
+        "id": 178,
+        "name": "Hanging Leg Raises",
+        "image": "blank",
+        "description": "Grip a chin up or pull up bar with a firm overhand grip. Hang from the bar with your legs straight. Raise your legs by flexing your hips forward and bending your knees up towards your chest. Continue to raise your knees towards your chest by flexing your waist forward. Dont swing your body to use momentum. Use your abdominals to pull your legs up. Return to the starting position, lowering your legs slowly until they are straight. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+               {
+        "id": 179,
+        "name": "Hanging Leg Raises to Bar",
+        "image": "blank",
+        "description": "Assume a wide grip on a pull-up bar and hang so that your feet are not in contact with the ground. Once steady, slowly lift your knees up towards your chest, doing your best to keep your legs fully extended. Allow you upper back to drop backward to create balance and avoid swinging as your legs continue to rise. Bring your toes up to touch the bar before slowly lowering them back down to the starting, hanging position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+               {
+        "id": 173,
+        "name": "Double Crunches",
+        "image": "blank",
+        "description": "Lie on your back. Bring your knees up to a 90-degree angle. Shins should be parallel to the floor. Place your hands behind your head and bring your shoulders off the ground. Exhale and contract your abdominals. Bring your head towards your knees while moving your knees toward your chest. Pause and return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+               {
+        "id": 173,
+        "name": "Double Crunches",
+        "image": "blank",
+        "description": "Lie on your back. Bring your knees up to a 90-degree angle. Shins should be parallel to the floor. Place your hands behind your head and bring your shoulders off the ground. Exhale and contract your abdominals. Bring your head towards your knees while moving your knees toward your chest. Pause and return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
    
             }
         ]
