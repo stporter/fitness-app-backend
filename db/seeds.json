@@ -2282,10 +2282,22 @@
         ]
     },
                {
-        "id": 173,
-        "name": "Double Crunches",
+        "id": 180,
+        "name": "Hanging Windshield Wipers",
         "image": "blank",
-        "description": "Lie on your back. Bring your knees up to a 90-degree angle. Shins should be parallel to the floor. Place your hands behind your head and bring your shoulders off the ground. Exhale and contract your abdominals. Bring your head towards your knees while moving your knees toward your chest. Pause and return to the starting position.",
+        "description": "Assume a wide grip on a pull-up bar and hang so that your feet are not in contact with the ground. Once steady, bring your toes up towards the the area on the left side of your body, keeping you legs straight. Using your core and keeping your legs straight, rotate your hips so that your straightened legs pass in front of you. Allow them travel to the right side of your body before reversing the motion and bringing them back",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals and Obliques"
+   
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "name": "Jackknife Sit-ups",
+        "image": "blank",
+        "description": "Lie flat on an exercise mat, extending your arms straight back behind your head. Fully extend your legs also. This is the start position. Bend at your waist and at the same time, raise your legs and arms to meet in a closed jackknife position. Exhale as you do this. At this point, your legs should remain fully extended at between 35-45 degrees from the floor. Your arms should be fully extended, parallel to your legs. Your upper body should be raised off the floor. Return to the start position by lowering your arms and legs back to the floor, exhaling as you do so. Repeat.",
         "category": [
             {
                 "primaryMuscleGroup": "Abdominals"
@@ -2293,11 +2305,11 @@
             }
         ]
     },
-               {
-        "id": 173,
-        "name": "Double Crunches",
+       {
+        "id": 182,
+        "name": "Kneeling Cable Crunches",
         "image": "blank",
-        "description": "Lie on your back. Bring your knees up to a 90-degree angle. Shins should be parallel to the floor. Place your hands behind your head and bring your shoulders off the ground. Exhale and contract your abdominals. Bring your head towards your knees while moving your knees toward your chest. Pause and return to the starting position.",
+        "description": "Kneel in front of a cable station with a rope attachment connected to the top pulley. Grip the rope attachment and place your wrists against your forehead. Flex your hips slightly to take the weight and to hyperextend your lower back. Keeping your hips stationary, bend at the waist so that your elbows travel down towards the middle of  your thighs. Hold for a count of one.  Return to the start position in a controlled movement and repeat.",
         "category": [
             {
                 "primaryMuscleGroup": "Abdominals"
@@ -2305,9 +2317,413 @@
             }
         ]
     },
+       {
+        "id": 183,
+        "name": "Leg Pull-In Knee-ups",
+        "image": "blank",
+        "description": "Lie flat with hands under your buttocks. Keep your knees together and pull them in towards you while moving your torso towards them (lift your head, neck and shoulders up). Hold and then slowly return to starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+       {
+        "id": 184,
+        "name": "Lying Leg Raises",
+        "image": "blank",
+        "description": "Lie on your back on a mat with hands under your lower buttocks on either side to support your pelvis. Legs straight out in front of you, ankles together and feet slightly off the floor. Keep your knees straight and raise your legs by flexing the hips until they are completely flexed. Return to starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+       {
+        "id": 185,
+        "name": "Mountain Climbers",
+        "image": "blank",
+        "description": "Place your hands flat on the floor, shoulder width apart. Extend your torso and legs fully behind you with only your toes and balls of your feet touching the floor. Your body should be in a straight line, with your weight supported on your hands and toes only. Starting with either leg, flex your knee and hip at the same time to bring your knee up and under your hip. Your other leg should remain fully extended. This is the start position. Using an explosive movement, reverse the position of your legs, by extending the bent leg back and simultaneously flexing the straight leg until it is in the start position. Continue alternating in this manner for the desire amount of time.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+       {
+        "id": 186,
+        "name": "Palloff Press",
+        "image": "blank",
+        "description": "Stand with your left side next to a cable machine (you can also tie a resistance band to a wall). You should be side by side with the cable or band. Take the handle in your left hand. Stand tall with a tight core and flat back. Your feet will be shoulder width apart. Clasp the handle with both hands. Begin by pushing the handle out in front of you. Feel the tension in your abs and obliques. Hold this position for the prescribed amount of time. Slowly bring the handle back towards your body.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+       {
+        "id": 187,
+        "name": "Plank",
+        "image": "blank",
+        "description": "Get into a face down position on the floor supporting your upper body on your forearms. Your elbows should be bent at 90 degrees. Extend your legs straight out behind you, supporting them on your toes and balls of your feet. Keep your body in a straight line by tightening your abdominal and oblique muscles. Hold for as long as possible.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+       {
+        "id": 188,
+        "name": "Plank Jacks",
+        "image": "blank",
+        "description": "Get into a push­up position with hands under shoulders and body straight from head to toes. Engage your core and bend your elbows, keeping them in towards the body. Lower your body towards the floor. Straighten your arms and quickly jump the feet forward to outside of the hands. Jump back to starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+       {
+        "id": 189,
+        "name": "Plank Knee to Elbow",
+        "image": "blank",
+        "description": "Lay face down on the ground with extended legs. Point your toes while you place your hands beneath your shoulders. Push yourself up into the plank position. Maintaining a tight core and flat back, bring your left knee to your right elbow. Pause and slowly return each to the starting point. Repeat with the other side and keep alternating.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+       {
+        "id": 190,
+        "name": "Plank Rolls",
+        "image": "blank",
+        "description": "Lock yourself in the plank position ensuring that your body forms a straight line from shoulders to heels. Bring your feet together and simultaneously transfer your weight onto your left arm. Allow your feet to slowly tip over as your body rolls into a side plank in a controlled fashion. Reverse the motion back to the full plank before transferring to your right side.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+       {
+        "id": 191,
+        "name": "Plank Shoulder Taps",
+        "image": "blank",
+        "description": "Lock yourself in the plank push-up position ensuring that your body forms a straight line from shoulders to heels. Bring your right arm off the ground and touch your left shoulder before placing it back on the ground. Repeat the same movement for the opposing arm.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+           {
+        "id": 192,
+        "name": "Plank to Push-Up",
+        "image": "blank",
+        "description": "Start in the plank position with your elbows shoulder-width apart. Press yourself up from the floor one arm at a time into a push-up, maintaining your body in a straight line. Slowly return to the starting plank position the same way, one arm at a time. Repeat the movement alternating sides.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+           {
+        "id": 193,
+        "name": "Reverse Bench Crunches",
+        "image": "blank",
+        "description": "Lie on your back on a flat bench. Reach overhead and grab the top of the bench with both hands. Brace your abdominal muscles. Straighten your legs and lift them up. Stop when they are above parallel. Contract your abdominals as you bend your knees and bring your legs up and towards the top of the bench. Pause then slowly release your legs to the starting position, making sure to keep the contraction in your abdominals.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+           {
+        "id": 194,
+        "name": "Reverse Crunch",
+        "image": "blank",
+        "description": "Lie flat on an exercise mat on the floor. Extend your legs fully and place your hands palms down, flat on the floor beside you. Keeping your feet together, draw your knees up towards your chest, until your thighs are at 90 degrees to the floor and your calves are parallel to it. This is the start position. As you inhale, curl your hips up off the floor while bringing your knees further towards your chest. Continue the movement until your knees are touching your chest, or as far as comfortable. Hold for a count of one. In a controlled movement, return your legs to the start position, exhaling as you do so. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+           {
+        "id": 195,
+        "name": "Roman Chair / Hyperextension Bench Side Bends",
+        "image": "blank",
+        "description": "Position yourself on a Roman Chair so that you are lying on your left hip and your feet are secured by the pads below. Put your hands across your chest or behind your head. Maintain a neutral gaze throughout. Lower yourself down and to the side towards the floor from the hips. Feel the stretch across your obliques. Now pull yourself back up using only your oblique muscles. Pause at the top, feel the contraction, and slowly lower yourself down again.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+           {
+        "id": 196,
+        "name": "Weighted Crunches",
+        "image": "blank",
+        "description": "Lie flat on your back with your feet flat on the ground, with your knees bent at 90 degrees. Alternatively, you can place your feet up on a bench a few inches apart with your toes turned inwards and touching. Hold a plate, dumbbell, kettlebell, or medicine ball securely above your head. Keep your elbows locked. Push your back down flat into the floor to isolate your abdominal muscles. Gently curl your shoulders forward and up off the floor. Continue to push down into the floor with your lower back. Raise your shoulders about four to six inches only. Hold and squeeze your abdominal muscles for a count of one. Return to the start position in a smooth movement.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+           {
+        "id": 197,
+        "name": "Russian / Mason / V-Sit Twists",
+        "image": "blank",
+        "description": "Lie on an exercise mat and place your feet your under something that will not move or ask a spotter hold them down for you. Keep your knees bent. Raise your upper body from the mat to form V-shape with your thighs. Keep your arms fully extended in front of your chest, clasping your hands together.This is the start position. In a smooth motion, twist your upper body to the right until you feel a stretch in your back and sides. Keep your arms parallel to the floor and exhale as you do this. Hold for a count of one and inhale. Return to the start position while breathing out. Repeat the movement, this time to the left side of your body. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals and Obliques"
+   
+            }
+        ]
+    },
+           {
+        "id": 198,
+        "name": "Side / Oblique Crunches",
+        "image": "blank",
+        "description": "Lie on a padded surface on your left side. Stack your legs and bring your right hand behind your head. Lie your left arm in front of you or across your body. Brace your core. Pulling from the obliques, bring your elbow up and towards your feet. Do NOT pull yourself with your hand. Pause and feel the contraction in your obliques then slowly return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals and Obliques"
+   
+            }
+        ]
+    },
+           {
+        "id": 199,
+        "name": "Side Plank",
+        "image": "blank",
+        "description": "Lie on your side on an exercise mat. Fully extend your legs with one resting on top of the other. Fully extend the top arm down the side of your body. Bend the arm at floor level to 90 degrees. Your upper arm should be parallel to your body, while your forearm is at 90 degrees. This is the start position. Lift your body off the ground and balance on your forearm and the side of your foot, while keeping your body in a straight line. Contract your abdominal muscles and relax your shoulders. Continue breathing throughout the whole exercise. Hold this position for as long as you can. Relax and change sides. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals and Obliques"
+   
+            }
+        ]
+    },
+           {
+        "id": 200,
+        "name": "Side Plank Leg Raises",
+        "image": "blank",
+        "description": "Using an exercise mat, lay on your side grounding your forearm and elbow, perpendicular to your body, at a 90-degree angle. Your upper arm should run parallel along your body. Straighten your legs so that one foot rests on top of the other and using your grounded arm, drive your body upwards so that only your lower foot and lower arm are in contact with the floor. Brace your core to maintain this side plank position and then slowly lift your upper leg, keeping it straight, away from you lower leg to create a 20 – 30 degree angle. Lower your leg back down to the starting plank position; this completes one rep.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals and Obliques"
+   
+            }
+        ]
+    },
+           {
+        "id": 201,
+        "name": "Side Plank Rotations",
+        "image": "blank",
+        "description": "Lie on your side on an exercise mat. Fully extend your legs with one resting on top of the other. Place the hand from your top arm lightly on the side of your head. Bend the arm at floor level to 90 degrees. Your upper arm should be bent at the elbow, while your forearm is at 90 degrees. This is the start position. Lift your body off the ground and balance on your forearm and the side of your foot, while keeping your body in a straight line. Contract your abdominal muscles and relax your shoulders. Twist your body so that your elbow lowers towards the ground. Once the elbow is pointing to the ground, reverse the movement util you are back in the starting position. This completes one rep.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+             {
+        "id": 202,
+        "name": "Sit-ups",
+        "image": "blank",
+        "description": "Lie with knees bent and feet flat on the floor. You can have someone hold your feet or place them under something to keep them steady. Place your hands behind your head, elbows pointing out. Engage your abs and lift your head, neck and shoulders up. Pretend you are holding a small ball under your chin. Hold and then return to starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+             {
+        "id": 203,
+        "name": "Exercise Ball Knee Tuck to Chest",
+        "image": "blank",
+        "description": "Position yourself on all fours with your torso on a swiss ball and hands and feet on the floor. Stretch your legs back and keep your hands under your shoulders. Engage your abs and slowly walk your hands forward until your feet lift off the floor. Carry on walking out until your quads or knees rest on the ball in a plank position. Slowly bend your knees in towards your chest allowing the ball to roll forward. Tuck your knees under your torso as your hips lift towards the ceiling. Slowly straighten your legs and roll the ball out to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+             {
+        "id": 204,
+        "name": "Standing Dumbbell Side Bends",
+        "image": "blank",
+        "description": "Stand straight, your feet shoulder width apart, while holding a dumbbell in your left hand with your palm facing in to your body. Place your right hand on your waist, palm facing in. This is the start position. Keeping your back and head straight, bend only from your waist to the right. Inhale as you bend. Continue as far as possible, then hold for a count of one. Return to the start position, exhaling as you do so. Repeat the movement this time bending to the left and returning to the start position. Complete all repetitions holding the dumbbell with your left hand before changing hands.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals and Obliques"
+   
+            }
+        ]
+    },
+             {
+        "id": 205,
+        "name": "Swiss Ball Hand Off",
+        "image": "blank",
+        "description": " Sitting on the ground, begin by placing a Swiss Ball between your feet. Lie back and extend your arms overhead. Contract your abdominals and your hip flexors, simultaneously bringing your upper and lower body together. Carefully pass the Swiss Ball to yourself and lower back to the starting position. Repeat the contraction and place the Swiss Ball between your feet again. Slowly descend to the starting position, alternating the back and forth motion.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+             {
+        "id": 206,
+        "name": "Swiss Ball Leg Lifts",
+        "image": "blank",
+        "description": "Lie face up with your legs straight and a swiss ball between your ankles. Raise your shoulders and head slightly off the floor and keep your arms reached down at your sides with hands hovering just off the floor, palms facing down. Engage your abs, squeeze your inner thighs and ankles into the ball and lift your legs up to a 45-degree angle. Slowly lower the ball down until it gently touches the floor.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+             {
+        "id": 207,
+        "name": "Swiss Ball Plank",
+        "image": "blank",
+        "description": "Assume a push-up position and rest your forearms flat on a swiss ball. Your legs should be straight behind you with your feet resting on your toes. Keep your legs hip-width apart. Raise your hips to form a straight line with your body and hold the position for approximately 30 seconds. Keep your core engaged and breathe deeply. Slowly lower down to starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+             {
+        "id": 208,
+        "name": "Toe Reaches",
+        "image": "blank",
+        "description": " Lay on a yoga/exercise mat or towel with your back flat on the floor and your legs straight and in the air with the soles of your feet facing up. Outstretch your arms above your chest so that they run parallel to your legs. Lifting your shoulders off the floor, reach up and touch your toes with your fingertips. Lower your shoulders back to the floor to complete one rep.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+             {
+        "id": 209,
+        "name": "Upward Cable Wood Chops",
+        "image": "blank",
+        "description": "Stand with your side to the cable machine. Grab the handle with the opposing hand first. Keep a flat back and tight core throughout the movement. Squat down by bending your knees and driving your hips back. Keeping your feet in position, rise and twist the weight to the opposite side of your body. Pause, contract the muscle and slowly return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals"
+   
+            }
+        ]
+    },
+             {
+        "id": 210,
+        "name": "Windshield Wipers",
+        "image": "blank",
+        "description": "Lie on an exercise mat, keeping your back flat with no arching of the spine. Extend your arms out beside you at shoulder level, with your palms pressed firmly to the floor. Your upper body should form a “T” shape. Raise your feet off the floor by bending your hips and knees to 90 degree angles. This is the start position. As you exhale, rotate both your thighs to one side until the outer thigh touches the ground or until you feel a stretch in your abs and lower back. Pause briefly, then rotate to the other side without pausing in the start position. When you have rotated to both sides, that is one repetition. Repeat for the desired number of repetitions.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals and Obliques"
+   
+            }
+        ]
+    },
+             {
+        "id": 211,
+        "name": "Weighted Russian Twists",
+        "image": "blank",
+        "description": "Sit on an exercise mat with your legs fully extended and your upper body upright. Grip a weight plate between both hands. Hold the plate out in front of your abdominals keeping your arms bent slightly. Cross your your ankles and raise them off the floor slightly. Bend your knees towards you slightly. Lean back about 15 degrees to balance your body. This is the start position. In a smooth motion, turn your torso to the left and touch the plate on the floor. Make sure you exhale as you do this. Return to the start position inhaling as you do so. Repeat the same movement, this time to your right side, again exhaling as you do so. Return to start position and repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Abdominals and Obliques"
+   
+            }
+        ]
+    },
+                 {
+        "id": 212,
+        "name": "Bodyweight Calf Raises",
+        "image": "blank",
+        "description": "Stand straight with a tight core and flat back. Keep your hands at your sides or hold on to a wall for balance. Bring your feet to be hip distance apart. Focusing the tension in your calf muscles, slowly raise yourself up on to the balls of your feet. Pause at the top of the movement and slowly return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Calves"
+   
+            }
+        ]
+    },
+                 {
+        "id": 213,
+        "name": "Leg Press Macine Calf Raises",
+        "image": "blank",
+        "description": "Find a comfortable position on a leg-press machine with your feet placed, flat, about shoulder width apart. Extend the resistance away from your body until your knees are at an almost locked position (never fully lock your knees). Further extend the platform away from your body, by driving your toes forward, into a tip-toe position. Hold this fully-extended position for 1 second, before lowering the platform to your extended-leg, flat-footed position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Calves"
+   
+            }
+        ]
+    },
+                 {
+        "id": 214,
+        "name": "Seated Calf Raises",
+        "image": "blank",
+        "description": "Sitting on a calf raise machine, position your upper thighs under the top pad. The pad should be resting just above your knees. Place the balls of your feet on the foot plate. Keeping the balls of you feet in position, lower your heels as far as possible. Slowly raise your heels as if standing on your toes. Continue as far as possible until you feel a stretch in your lower calves. Hold for a count of one. Slowly lower your heels back to the starting position and repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Calves"
+   
+            }
+        ]
+    },
+                 {
+        "id": 215,
+        "name": "Standing Barbell Calf Raises",
+        "image": "blank",
+        "description": "Set up two weight plates on the ground next to each other. Position a loaded barbell across your trap muscles. Step on to the weight plates with the heels of your feet. With a tight core and flat back, raise yourself up with your feet only. Pause at the top of the raise. Slowly lower yourself down but do not touch the ground. Raise yourself back up. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Calves"
+   
+            }
+        ]
+    },
+                 {
+        "id": 216,
+        "name": "Standing Dumbbell Calf Raises",
+        "image": "blank",
+        "description": "Place an exercise step or something similar on the floor in front of you. It should be two or three inches high. Holding a dumbbell in each hand, place your toes and the balls of your feet on the step. Make sure the arches of your feet are not on the step and your heels are on the floor. Raise your heels as high as possible by pushing through the balls of your feet and toes while extending your ankles. Hold for a count of one. Return to the starting position by bending your ankles until you feel a stretch in your calves. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Calves"
+   
+            }
+        ]
+    }
     
-    
-    
-    
-
 ]
