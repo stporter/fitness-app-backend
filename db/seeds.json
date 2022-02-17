@@ -156,7 +156,7 @@
     {
         "id": 11,
         "name": "Bench Cable Flys",
-        "image": "blank",
+        "image": "/assets/flat-bench-cable-fly.png",
         "description": "Laying flat on a bench take hold of each cable and position the handles directly above your chest.vWith only a slight bend at the elbow, allow the cable to slowly pull your arms outwards until they reach the same horizontal level as the bench.vContract your pectorals and pull the handles back inwards, without using your biceps.vFinish the repetition with the cables together above your chest in the starting position.",
         "category": [
             {
@@ -169,7 +169,7 @@
     {
         "id": 12,
         "name": "Low Upward Cable Pulley Crossover Chest Flyes",
-        "image": "blank",
+        "image": "/assets/low-to-high-cable-fly.png",
         "description": "Adjust the pulley lever to be below you. Stand in the center of the pulley machine while holding both handles. Brace your abdominals and take a step forward. With your chest up, bring the handles up and to the front of your body. The handles will meet at shoulder height. Pause to feel the contraction in your chest then slowly lower the handles to the starting position.",
         "category": [
             {
@@ -181,7 +181,7 @@
         {
         "id": 13,
         "name": "Seated Chest Press Machine",
-        "image": "blank",
+        "image": "/assets/seated-chest-press-machine.png",
         "description": "Sit on the seat with your upper chest just above the horizontal handles. Push the foot lever until you are able to grasp the lever. Grasp the handles using a wide overhand grip and place your elbows out to the sides just below your shoulders. Release the foot lever and press the hand lever out until your arms are fully extended. Return the weight until your chest muscles are slightly stretched.",
         "category": [
             {
@@ -193,7 +193,7 @@
         {
         "id": 14,
         "name": "Smith Machine Bench Chest Press",
-        "image": "blank",
+        "image": "/assets/smith-machine-bench-press-flat.png",
         "description": "Position a flat bench below the barbell of a Smith Machine. Lie on the bench face up and place your hands slightly outside of shoulder width on the barbell. Push the barbell up then immediately rotate it so the hooks turn out. Do not flare out your elbows. Slowly lower the barbell and pause just above your chest. Push the barbell back up to the starting position. Repeat the movement.",
         "category": [
             {
@@ -205,7 +205,7 @@
         {
         "id": 15,
         "name": "Decline Push-Up",
-        "image": "blank",
+        "image": "/assets/decline-pushup.png",
         "description": "Facing down, place yourself on the ground with your hands flat on the floor, directly below your shoulders. Place your feet on top of a bench or box. Only your toes and balls of your feet should be touching the floor. Maintain a flat back and tight core before lowering your chest towards the ground. Bend your elbows at a 60-degree angle until your chest is just above the ground. You should feel a stretch across your chest. Hold for a count of one. Push yourself back to the starting position by straightening your arms. Do not lock out your elbows. Repeat.",
         "category": [
             {
@@ -217,7 +217,7 @@
             {
         "id": 16,
         "name": "Incline Push-Up",
-        "image": "blank",
+        "image": "/assets/incline-pushup.png",
         "description": "Set up a bench or stable elevated surface. Begin with both hands on the bench at shoulder-width or just outside of shoulder-width. Place your feet straight behind you while you tighten your abs and engage the hips. Your hips should not dip or elevate too high during the movement. Slowly lower yourself towards the bench. Once your upper arms are parallel with the floor, pause, and return to the starting position.",
         "category": [
             {
@@ -229,7 +229,7 @@
             {
         "id": 17,
         "name": "Push-Up",
-        "image": "blank",
+        "image": "/assets/pushup.png",
         "description": "Get into position by placing your hands flat on the floor, directly below your shoulders. Extend your legs out behind you, with only your toes and balls of your feet touching the floor. Hold your body up and keep your back straight by tightening your abdominal muscles. Your neck and head should be bent slightly back. Lower your chest towards the ground by bending your elbows until your chest is just above the ground or you feel a stretching of your chest and shoulders. Hold for a count of one. Press upwards from your chest and shoulders, straightening your arms as you return to the starting position. Hold for a count of one. Repeat.",
         "category": [
             {
@@ -241,7 +241,7 @@
             {
         "id": 18,
         "name": "Single Arm Dumbbell Chest Press",
-        "image": "blank",
+        "image": "/assets/single-arm-dumbbell-press.png",
         "description": "Sit on the front of a flat bench. Hold a dumbbell with both hands. Keep your core tight and back flat as you slowly lie back on the bench. Brace your core and turn your left arm out with the dumbbell. Place your other hand on your core. Your upper left arm should be parallel with the floor. Push the dumbbell above you, in line with your chest. Keep a slight bend in the elbow. Slowly lower back to the starting position and repeat.",
         "category": [
             {
@@ -253,7 +253,7 @@
             {
         "id": 19,
         "name": "Standing Cable Chest Press",
-        "image": "blank",
+        "image": "/assets/standing-cable-chess-press.png",
         "description": "Adjust the height of the pulley lever to be at shoulder height. Place yourself in the center of the pulley machine while holding the handle of each side. Brace your abdominals and take a step forward. Bring your arms up to shoulder height. Begin the movement by pushing the handles forward. Be sure to focus the contraction in your chest muscles. Once fully extended, pause then slowly release to the starting position.",
         "category": [
             {
@@ -265,7 +265,7 @@
             {
         "id": 20,
         "name": "Resistance Band Push-ups",
-        "image": "blank",
+        "image": "/assets/resistance-band-pushup.png",
         "description": "Bring yourself to the ground and place your hands below your shoulders and your feet directly behind you. Wrap a resistance band behind you so that the band is stretched across your upper back – not your neck. Brace your core and maintain a flat back. Slowly lower yourself and once your upper arms are parallel with the floor, pause, and return to the starting position. Feel the tension in your chest and triceps as the band provides resistance.",
         "category": [
             {
@@ -277,7 +277,7 @@
                {
         "id": 21,
         "name": "Standing Barbell Bicep Curls",
-        "image": "blank",
+        "image": "/assets/barbell-bicep-curl.png",
         "description": "Stand straight holding a barbell with an underhand grip, your hands shoulder width apart and your arms fully extended towards the floor. Keep your elbows close to your sides.Your palms should be facing away from you. This is the start position. Keeping your upper arms stationary, curl the barbell forward and up in a smooth arcing motion while exhaling. Only your forearms should move. Continue upwards until  the bar is at shoulder level with your biceps fully contracted. Hold for a count of one while squeezing your biceps. Inhale as you return to the starting position. Repeat.",
         "category": [
             {
@@ -289,7 +289,7 @@
                {
         "id": 22,
         "name": "Cable Hammer Bicep Curls",
-        "image": "blank",
+        "image": "/assets/cable-hammer-curl.png",
         "description": "Stand at the cable station with your feet shoulder width apart and with a slight bend at the knee. Grasp the rope with both hands and your palms facing inward. Keeping your core strong and your elbows fixed at your sides pull the rope towards the top of your chest (only the lower portion of your arms should be moving). Tense your biceps at the peak, and then slowly allow the rope to be pulled back down to the starting position.",
         "category": [
             {
@@ -301,7 +301,7 @@
                {
         "id": 23,
         "name": "EZ-Bar Preacher Curls",
-        "image": "blank",
+        "image": "/assets/ez-bar-preacher-curl.png",
         "description": "Set up a preacher curl bench making sure that the seat is set at the right height for you. The seat shouldn’t be so low that you need to raise your shoulders, or so high that you need to lean over the support pad. Rest you arms on the support pad with your triceps near the top and your elbows midway down the pad. Grip the EZ curl bar with an underhand grip at shoulder width. Curl the bar in towards your chin and upper chest in a single smooth arc. Hold for a count of one. Lower the bar by extending your arms back to the starting position.",
         "category": [
             {
@@ -313,7 +313,7 @@
                {
         "id": 24,
         "name": "Machine Preacher Bicep Curl",
-        "image": "blank",
+        "image": "/assets/machine-preacher-curl.png",
         "description": "Adjust the seat height so that you can comfortably hang your arms over the pad of the machine. Make sure your shoulders are forward, allowing you to bring your arms closer than shoulder-width. Using an underhand grip, secure the handle of the machine bar. Keep a slight bend in the elbows at all times. Move the bar up, towards your face, focusing the tension in the biceps. Pause at the top and slowly lower to the starting position. Do not allow the weight to touch the stack and do not lock out your elbows. Repeat.",
         "category": [
             {
@@ -325,7 +325,7 @@
                {
         "id": 25,
         "name": "One-Arm Dumbbell Preacher Curl",
-        "image": "blank",
+        "image": "/assets/single-arm-dumbbell-preacher-curl.png",
         "description": "Set up a preacher curl bench making sure that the seat is set at the right height for you. The seat shouldn’t be so low that you need to raise your shoulders, or so high that you need to lean over the support pad. Rest you arm on the support pad with your triceps near the top and your elbow midway down the pad. Grip the dumbbell with an underhand grip at shoulder width. Curl the dumbbell in towards your chin and upper chest in a single smooth arc. Hold for a count of one while squeezing your biceps. Lower the dumbbell by extending your arms back to the starting position. Repeat for the desired number of repetitions then change to your other arm.",
         "category": [
             {
@@ -337,7 +337,7 @@
                {
         "id": 26,
         "name": "Superman Curls",
-        "image": "blank",
+        "image": "/assets/superman-curl.png",
         "description": "Set up a cable station by adjusting the pulley height on each side to a little higher than shoulder height. Attach a stirrup type handle to each pulley. Select a weight that is comfortable, making sure the weight is the same on both sides of the machine. Stand between the two weight stacks of the machine, with your feet shoulder width apart. Extend your arms fully to your sides and grip the handles with an underhand grip. Make sure your arms and shoulders are in a straight line and aligned with the handles. This is the start position Exhale and contract your biceps to curl your forearms towards your shoulders. Continue until your forearms and biceps touch. Hold for a count of one while squeezing your biceps. Return to the star position in a smooth action while inhaling. Repeat.",
         "category": [
             {
@@ -349,7 +349,7 @@
                {
         "id": 27,
         "name": "Seated Alternating Incline Bench Dumbbell Curls",
-        "image": "blank",
+        "image": "/assets/incline-alternate-dumbbell-curl.png",
         "description": "Set up an incline bench at 45 degrees. Holding a dumbbell in each hand, sit on the bench, keeping your shoulders and back firmly against the back rest. Put your arms down by your side with your palms facing in to your body. Slowly curl your arms up, rotating your wrist outwards (thumbs pointing away from your body) until the dumbbell is level with your shoulders. (Your palms should be facing your shoulders) Flex or squeeze your bicep at the top of the movement and hold for a count of one. Slowly lower the dumbbells back to the start position, turning your palms back in to your body. Repeat.",
         "category": [
             {
@@ -361,7 +361,7 @@
                {
         "id": 28,
         "name": "Seated Dumbbell Bicep Curls",
-        "image": "blank",
+        "image": "/assets/seated-dual-dumbbell-curls.png",
         "description": "Sit on a flat bench holding a dumbbell in each hand  with an underhand grip. Keep your back straight and shoulders back. Keep your arms fully extended with your elbows close to your sides. Rotate your palms so that they are facing in towards you. This is the start position. Keeping your upper arms upper arm stationary, start to curl the dumbbells upwards in a smooth arc. As you curl the dumbbells upwards rotate your wrists, so that your palms  face in towards you at the end of the movement. Continue the movement until  the dumbbells are at shoulder level and your biceps are fully contracted. Hold for a count of one as you squeeze your biceps. return to the start position, rotating your wrists back to an underhand grip position. Repeat. ",
         "category": [
             {
@@ -373,7 +373,7 @@
                {
         "id": 29,
         "name": "Seated Dumbbell Concentration Curls",
-        "image": "blank",
+        "image": "/assets/seated-concentration-curls.png",
         "description": "Sit on a flat bench with your legs spread, knees bent and your feet flat on the floor with a dumbbell between your feet. Use either arm to pick the dumbbell up and hold it with an underhand grip. Place the back of that upper arm on the top of your inner thigh on the same side. Your palm should be facing away from your thigh. Keep your arm fully extended downwards without letting the dumbbell rest on the floor. This is the start position. Curl the dumbbell forward and up in a smooth arc, contracting your biceps and exhaling. Continue curling the dumbbell upward until your biceps are fully contracted and the dumbbell is at shoulder level.  Hold for a count of one while squeezing your biceps. Return to the start position in a controlled, smooth arc inhaling as you do so. Do not swing the dumbbell down. Repeat for all the repetitions for that arm then switch and repeat the movement with your other arm.",
         "category": [
             {
@@ -385,7 +385,7 @@
                {
         "id": 30,
         "name": "Standing Bicep Cable Curls",
-        "image": "blank",
+        "image": "/assets/standing-cable-curls.png",
         "description": "Set up a cable station with a straight bar attachment connected to the low pulley. Stand close to the station, feet shoulder width apart either side of the pulley. Grip the bar with a shoulder width underhand grip. Keep your elbows close to your sides. Curls your arms upward from the elbows in a smooth arc. Continue until your forearms are vertical with your palms facing your shoulders. Hold for a count of one while flexing your biceps. Lower the bar back to the starting position in a smooth motion. Repeat.",
         "category": [
             {
@@ -397,7 +397,7 @@
                {
         "id": 31,
         "name": "Standing Dumbbell Bicep Curl",
-        "image": "blank",
+        "image": "/assets/standing-dumbbell-curls.png",
         "description": "Holding a dumbbell in each hand, stand with your feet shoulder width apart. Let your arms hang by your side with your palms facing in to the side of your body. Keep your elbows close to your sides. Curl the dumbbells up towards your shoulders. Do not swing your hips to get the weight moving. Continue raising the dumbbells until they are level with your shoulders with your palms facing in. Your forearm should be in a vertical position. Squeeze or flex your bicep and hold for a count of one. Slowly lower the dumbbells to the starting position. Repeat.",
         "category": [
             {
@@ -409,7 +409,7 @@
                    {
         "id": 32,
         "name": "Standing Dumbbell Bicep Hammer Curl",
-        "image": "blank",
+        "image": "/assets/standing-dumbbell-hammer-curls.png",
         "description": "Stand straight holing a dumbbell in each hand with a neutral grip. Keep your arms fully extended with your palms facing in to your sides. Keep your elbows tucked in to your sides. This is the start position. Keeping your upper arm stationary, exhale and curl the dumbbells up towards your shoulders. Continue  raising the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level. Hold for a count of one and squeeze your biceps. Return to the start position in a smooth movement, inhaling as you do so. Repeat.",
         "category": [
             {
@@ -420,9 +420,9 @@
     },
                    {
         "id": 33,
-        "name": "Standing Dumbbell Bicep Curl",
-        "image": "blank",
-        "description": "Holding a dumbbell in each hand, stand with your feet shoulder width apart. Let your arms hang by your side with your palms facing in to the side of your body. Keep your elbows close to your sides. Curl the dumbbells up towards your shoulders. Do not swing your hips to get the weight moving. Continue raising the dumbbells until they are level with your shoulders with your palms facing in. Your forearm should be in a vertical position. Squeeze or flex your bicep and hold for a count of one. Slowly lower the dumbbells to the starting position. Repeat.",
+        "name": "Standing Reverse Barbell Curl",
+        "image": "/assets/reverse-barbell-curl.png",
+        "description": "Hold a barbell with an overhand grip at shoulder width. You can also use a preacher curl bar if you feel too much pressure on the wrists. Stand tall with your chest up and core braced. You will keep your upper arms tight to your sides. Begin the movement by bringing the barbell up towards your shoulders. Feel the contraction in the biceps and forearms. Pause at the top and slowly return to the starting position.",
         "category": [
             {
                 "primaryMuscleGroup": "Biceps",
@@ -433,7 +433,7 @@
                    {
         "id": 34,
         "name": "Machine Seated Tricep Dips",
-        "image": "blank",
+        "image": "/assets/seated-machine-tricep-dip.png",
         "description": "Sit at the Triceps Dip machine but make sure to brace your core throughout the movement. Place your hands on the bar with your elbows pointing behind you. Your arms will make a 90 degree angle. Slowly push down on the bars, focusing all the movement in your triceps. When you reach the bottom, pause and do not lock out your elbows. Slowly return to the starting position but do not let the weight touch the stack.",
         "category": [
             {
@@ -445,7 +445,7 @@
                    {
         "id": 35,
         "name": "Assisted Tricep Dips",
-        "image": "blank",
+        "image": "/assets/assisted-machine-dips.png",
         "description": "Begin by using the weight stack to offset your bodyweight on an Assisted Dip machine. Now, position your knees securely on the padded surface while holding on to the bars on either side of you. Before lowering yourself, make sure that your core is tight and that your elbows are pointing directly behind you. Slowly, lower yourself until your upper arms are parallel with the floor. Push yourself back to the starting position and squeeze your triceps at the top. Lower yourself again slowly for the next repetition.",
         "category": [
             {
@@ -457,7 +457,7 @@
                    {
         "id": 36,
         "name": "Bent Over Double Arm Tricep Kickbacks",
-        "image": "blank",
+        "image": "/assets/dumbbell-kickbacks.png",
         "description": "Holding a dumbbell in each hand, stand with your feet shoulder width apart. Let your arms hang by your side with your palms facing in to the side of your body. Keep your elbows close to your sides. Curl the dumbbells up towards your shoulders. Do not swing your hips to get the weight moving. Continue raising the dumbbells until they are level with your shoulders with your palms facing in. Your forearm should be in a vertical position. Squeeze or flex your bicep and hold for a count of one. Slowly lower the dumbbells to the starting position. Repeat.",
         "category": [
             {
@@ -469,7 +469,7 @@
                    {
         "id": 37,
         "name": "Cable Rope Overhead Triceps Extensions",
-        "image": "blank",
+        "image": "/assets/cable-overhead-tricep-extension.png",
         "description": "Attach a rope to the bottom pulley of a cable station. Grip the rope with both hands using a neutral grip. Turn your body away from the cable station. Fully extend your arms until your hands are directly above your head pointing to the ceiling. Keep your elbows  close to your head. This is the start position. Slowly lower the rope behind your head, keeping your upper arms stationary, inhaling as you do so. When your triceps are fully extended, hold for a count of one while squeezing your triceps. Return to the starting position by flexing your triceps  and extending your arms. Exhale as you do so. Repeat.",
         "category": [
             {
@@ -481,7 +481,7 @@
                    {
         "id": 38,
         "name": "Cable Tricep Kickback",
-        "image": "blank",
+        "image": "/assets/cable-tricep-kickback.png",
         "description": "Grab the handle of a lowered cable pulley with your right hand. Place your left foot forward and your right foot behind you. Keep a tight core and flat back as you bend at the hips, resting your left forearm on your left knee. Raise your right elbow up and keep it at your side. Extend your right hand behind you. Pause and slowly lower to the starting position.",
         "category": [
             {
@@ -493,7 +493,7 @@
                    {
         "id": 39,
         "name": "Bench Tricep Dips",
-        "image": "blank",
+        "image": "/assets/bench-dip.png",
         "description": "Sit on a chair with your hands either next to your hips or slightly under the hips. Lift up onto your hands and bring your hips forward. Bend your elbows and lower your hips down, keeping shoulders down and hips close to the chair. Push back up but don’t lock your elbows and repeat.",
         "category": [
             {
@@ -505,7 +505,7 @@
                        {
         "id": 40,
         "name": "Close-Grip Overhand Barbell Bench Press",
-        "image": "blank",
+        "image": "/assets/close-grip-flat-bench-press.png",
         "description": "Lie on a flat bench with your feet flat on the floor. Make sure your back is completely flat on the bench, with no “arching” of your spine. Grip the barbell with an overhand grip, shoulder width or slightly less than shoulder width apart. (Do not make your grip too narrow as it limits stability of the barbell which can lead to injury) Push up using your chest and shoulders to lift the barbell above your body, then lower it slowly ( a count of 2) towards the centre of your chest. Hold for a count of one. Without “bouncing” the weight, force the barbell back up over the middle of your chest, straightening your arms and locking your elbows once your arms are fully straight. Hold for a count of one. Repeat.",
         "category": [
             {
@@ -517,7 +517,7 @@
                        {
         "id": 41,
         "name": "Decline Lying Triceps Extension / Decline Skull Crushers",
-        "image": "blank",
+        "image": "/assets/decline-sckullcrushers.png",
         "description": "Set up a decline bench to between 15 and 30 degrees. (The angle is not important, your comfort and form is.) Place the EZ bar on the rack at the foot of the bench. Sit on the bench and position your feet under the foot pads. Lean forward and grip the EZ bar with an overhand grip, shoulder width apart. Lift the bar from the rack. (Because of your position when doing this, I recommend getting a spotter to assist you) Lat flat on the bench holding the bar above your chest with your arms extended and elbows locked. Lower the EZ bar towards you by bending your arms toward you in a smooth arc. Your upper arms should not move. Continue lowering the bar until it is just above or gently touching your forehead. You should feel a stretch in your triceps. Hold and squeeze you triceps for a count of one. Return to the staring position by extending your arms in a smooth arc. (Again, your upper arms should not move) Repeat.",
         "category": [
             {
@@ -529,7 +529,7 @@
                        {
         "id": 42,
         "name": "Flat Bench Barbell Skull Crushers",
-        "image": "blank",
+        "image": "/assets/flat-bench-skullcrusher.png",
         "description": "Holding a preacher curl barbell with an overhand grip, carefully sit on a bench. Slowly lie back and bring the barbell above your head. Make sure that your feet are flat on the floor and your core is braced. Keep the upper arms in place as you bend at the elbow and allow the forearms to slowly dip back towards your head. Once the barbell reaches the bottom, pause and slowly push the barbell back to the starting position.",
         "category": [
             {
@@ -541,7 +541,7 @@
     {
         "id": 43,
         "name": "Diamond Push-ups",
-        "image": "blank",
+        "image": "/assets/diamond-pushup.png",
         "description": "Position yourself on all fours on a mat. Place your hands in front of you and shoulder-width apart. Now bring your hands in towards the center until the tips of your index fingers and tips of your thumbs are touching. This creates a diamond shape between your hands. Your elbows and wrists should be in line with your chest. With your fingers facing forwards, lift off your knees so that your body forms a straight line and just your hands and toes touch the floor. Keep you pelvis straight and abs engaged and aim to keep a straight back throughout the movement. Bend your elbows and lower your body towards the floor, aiming to touch your chest to the top of your hands. Pause briefly. Return to the starting position by extending your elbows and lifting your body off the floor again.",
         "category": [
             {
@@ -553,7 +553,7 @@
     {
         "id": 44,
         "name": "Incline Close-Grip Bench Press",
-        "image": "blank",
+        "image": "/assets/incline-close-grip-bench-press.png",
         "description": "On the incline bench, lay down and ensure that your back is in a fixed, non-arching, position. Firmly take hold of the barbell at a slightly-less-than-shoulder-width grip. Remember, you’ll be working with less weight than a standard, flat bench press. Lower the bar down towards your nipple line and allow the barbell to drop no farther than one inch from your chest. Drive the weight back upwards using a combination of triceps and chest strength.",
         "category": [
             {
@@ -565,7 +565,7 @@
         {
         "id": 45,
         "name": "Lying Dumbbell Tricep Extensions",
-        "image": "blank",
+        "image": "/assets/dumbbell-skullcrusher.png",
         "description": "Lie flat on your back on a bench and position your feet flat on the floor on either side of the bench. With a dumbbell in each hand, extend your arms over head until fully extended. Your palms should face one another and your hands should be close together. Bend the elbows and lower the weights to either side of your head. Extend your arms to return to the starting position.",
         "category": [
             {
@@ -577,7 +577,7 @@
         {
         "id": 46,
         "name": "Seated Single Arm Overhead Dumbbell Tricep Extensions",
-        "image": "blank",
+        "image": "/assets/dumbbell-single-arm-overhead-extension.png",
         "description": "Sit on a bench while holding a dumbbell in your left hand with an overhand grip. Tighten your core and straighten your lower back. Lift the dumbbell to shoulder height. Push the dumbbell overhead with your palm facing forward. Keep the upper arm in place. Slowly bend at the elbow and lower the weight behind your head. Push the dumbbell back up over your head squeezing the tricep muscle. Immediately begin the next repetition. Switch sides once you have completed all repetitions.",
         "category": [
             {
@@ -589,7 +589,7 @@
         {
         "id": 47,
         "name": "Seated Tricep Overhead Extension",
-        "image": "blank",
+        "image": "/assets/dumbbell-overhead-extension.png",
         "description": "Sit on a bench with back support. Grip a dumbbell at one end using both hands. Your palms should be facing inward. Hold the dumbbell overhead with your arms fully extended.  This is the the start position. Keep your upper arms close to your head (biceps roughly level with your temples) and near to 90degrees to the floor. Moving only your forearms, lower the dumbbell in a smooth arc behind your head until your forearms and biceps touch. Hold for a count of one. Return to the start position by using the triceps to extend your arm and raise the dumbbell. Exhale as you do this. Repeat.",
         "category": [
             {
@@ -601,7 +601,7 @@
         {
         "id": 48,
         "name": "Standing Overhead Barbell Triceps Extensions",
-        "image": "blank",
+        "image": "/assets/standing-barbell-overhead-extension.png",
         "description": "Stand with feet shoulder-width apart. Core is tight and back is flat. Hold a barbell with an overhand grip. Hands should be closer than shoulder-width. Bring the barbell above your head with arms fully extended. Keep the elbows up and the upper arm in place. Lower the barbell behind your head until your forearms touch your biceps. Return to the top of the movement.",
         "category": [
             {
@@ -613,7 +613,7 @@
         {
         "id": 49,
         "name": "Tricep Cable Pushdowns",
-        "image": "blank",
+        "image": "/assets/cable-pushdown.png",
         "description": "Set up a cable station with a straight bar on attached to the top pulley. Grip the bar with an overhand grip, with your hands slightly less than shoulder width apart. Position your feet shoulder width apart, with knees slightly bent for stability. Pull the bar down until your forearms are parallel to the floor with your elbows close to your body and your wrists locked in a straight position. This is your staring point. Moving only your forearms, push the bar down towards the floor until your arms are fully extended and you feel a stretch in your triceps. Hold for a count of one and squeeze your triceps. Return to the start position moving your forearms only. Hold for a count of one then repeat.",
         "category": [
             {
@@ -625,7 +625,7 @@
         {
         "id": 50,
         "name": "Tricep Dips",
-        "image": "blank",
+        "image": "/assets/tricep-dips.png",
         "description": "Standing between the bars of a dip station, grip the bars with an overhand grip,keeping your elbows tucked in close to your body. Allow your body weigh to hang so it is being supported by your arms and shoulders. Keep your hips straight. Push down through your palms with your arms, lifting your body up until your arms are almost straight. (Do not lock your elbows) Lower your body by slowly bending your elbows and continue down until you feel a slight stretch in your shoulders. Pause, then push yourself back to the starting position. Repeat.",
         "category": [
             {
@@ -637,7 +637,7 @@
          {
         "id": 51,
         "name": "Weighted Tricep Dips",
-        "image": "blank",
+        "image": "/assets/weighted-tricep-dips.png",
         "description": "Carefully secure a weight belt around your hips. Step up to a dip bar. Position your hands on the bar with an overhand grip. Push yourself up and into the air with straight arms. Tighten the core to control stability. Begin the exercise by bending at the elbows and slowly lowering yourself. Once the upper arm is parallel with the ground, pause and push yourself back up. Be sure to focus the contraction into the triceps.",
         "category": [
             {
@@ -649,7 +649,7 @@
          {
         "id": 52,
         "name": "Weighted Bench Dips",
-        "image": "blank",
+        "image": "/assets/weighted-bench-dips.png",
         "description": "Set up 2 flat benches opposite each other. They should be roughly the distance of your hips to the floor apart. Stand with your back to one bench, facing the other, then crouch down placing your palms behind you on the edge of the bench. Your arms should be fully extended at shoulder width, with your fingers facing forward. Place the heels of your feet on the other bench. Keep your legs fully extended. Have a spotter place a barbell weight plate or dumbbell on your lap. This is the start position. Slowly lower yourself down by bending your elbows, until they are at 90 degrees or slightly less. Hold for a count of one. Return to the starting position by pushing yourself up using only your triceps to straighten your arms. Hold then repeat",
         "category": [
             {
@@ -661,7 +661,7 @@
          {
         "id": 53,
         "name": "Bent Over Barbell Row From Floor",
-        "image": "blank",
+        "image": "/assets/barbell-row-from-floor.png",
         "description": "Set up a barbell on the floor and stand facing it with your legs slightly wider than shoulder width apart and your knees slightly bent. Bend forward at your waist and grip the barbell with an overhand grip. Keep your back straight and nearly parallel to the floor. Keep your head and neck straight. This is the start position. Without moving your torso, exhale and lift the barbell up towards you from the floor. Keep your elbows close in to your body and use your forearms to support the weight. At the top of the movement, hold for a count of one and squeeze your back muscles. Return the barbell back to the floor as the start position, inhaling as you do so.",
         "category": [
             {
@@ -674,7 +674,7 @@
          {
         "id": 54,
         "name": "Bent Over Barbell Rows",
-        "image": "blank",
+        "image": "/assets/bent-over-barbell-row.png",
         "description": "Set up a barbell on the floor and stand facing it with your legs slightly wider than shoulder width apart and your knees slightly bent. Bend forward at your waist and grip the barbell with an overhand grip. Keep your back straight and nearly parallel to the floor. Keep your head and neck straight. This is the start position. Without moving your torso, exhale and lift the barbell up towards you. Keep your elbows close in to your body and use your forearms to support the weight. At the top of the movement, hold for a count of one and squeeze your back muscles. Return to the start position inhaling as you do so.",
         "category": [
             {
@@ -687,7 +687,7 @@
          {
         "id": 55,
         "name": "T-Bar Row",
-        "image": "blank",
+        "image": "/assets/tbar-row.png",
         "description": "Set up an Olympic (long) barbell with weight plates on one end only. Put the other end of the bar against a wall or something heavy so it can’t slide backwards. Straddle the bar with your knees slightly bent. Bend forward at the waist until your torso is nearly parallel to the floor. Grip the bar close to the weight plates with both hands, using a neutral grip. One hand in front  the other. This is the start position. Keeping your back straight and exhaling, pull the bar straight up by bending your elbows until the plates touch your chest. Hold and squeeze your back muscles. Return to the start position in a slow smooth movement to place emphasis on your lats. Inhale as you do so. Keep the bar from touching the floor. pause then repeat.",
         "category": [
             {
@@ -700,7 +700,7 @@
          {
         "id": 56,
         "name": "Close Grip Lat Pulldown",
-        "image": "blank",
+        "image": "/assets/close-grip-lat-pulldown.png",
         "description": "Sit at a Lat Pulldown machine and secure your legs underneath the padded surface. Select an appropriate weight on the stack. Reach up to grab the barbell, taking a close-grip. Your hands should be at or closer than shoulder-width. Tighten your core and keep your chest up as you pull the barbell down and towards your chest. Be sure to pull with your lat muscles. Once the bar is at your chest, slowly allow it to return to the starting position but don’t let the weight stack touch. Repeat.",
         "category": [
             {
@@ -713,7 +713,7 @@
          {
         "id": 57,
         "name": "Chinup",
-        "image": "blank",
+        "image": "/assets/chinup.png",
         "description": "Step up to the bar and grasp it with your palms facing you and arms close together. Your arms should be fully extended. Cross your ankles and bend your knees, Pull your body up until your elbows are completely bent and close to your body, reaching your chin to the bar. Lower your body until your arms and legs are fully extended in the starting position.",
         "category": [
             {
@@ -726,7 +726,7 @@
          {
         "id": 58,
         "name": "Dumbbell Incline Bench Rows",
-        "image": "blank",
+        "image": "/assets/incline-bench-dumbbell-row.png",
         "description": "Lean forward into an incline bench Using a neutral grip, hold a dumbbell in each hand so your palms are facing in. Your arms should be fully extended and hanging straight down. This is the start position. Pull your shoulder blades back and flex your elbows to pull the dumbbells up to your sides. Hold and squeeze your shoulder and back muscles. Return to the start position in a slow, controlled movement. Repeat.",
         "category": [
             {
@@ -739,7 +739,7 @@
          {
         "id": 59,
         "name": "Inverted Rows",
-        "image": "blank",
+        "image": "/assets/inverted-row.png",
         "description": "Set the bar to your waist height. Lie on your back under the bar. Reach up and grip the bar with an overhand grip with both hands. Keeping your body straight,  pull yourself up towards the bar by pulling your elbows as far back as you can and trying to touch the bar with your chest. Hold and squeeze your arm and back muscles. Lower yourself back to the start position in a controlled motion. Repeat.",
         "category": [
             {
@@ -752,7 +752,7 @@
          {
         "id": 60,
         "name": "Machine Assisted Pullups",
-        "image": "blank",
+        "image": "/assets/assisted-pullup.png",
         "description": "Select the correct weight to counterbalance your own before beginning. The heavier the weight, the easier it will be. Reach above and use an overhand grip to secure yourself as you kneel on the padded surface of the assisted machine. Tighten your core as well as your glutes. Lower yourself slowly. Do not lock out the elbow. Pull yourself back to the starting position but do not let the weight touch the stack. Pause and repeat.",
         "category": [
             {
@@ -766,7 +766,7 @@
              {
         "id": 61,
         "name": "One Arm Barbell Rows",
-        "image": "blank",
+        "image": "/assets/single-arm-barbell-row.png",
         "description": "Place weight on one end of a barbell. Straddle the barbell with the weight in front. Bend your knees and drive your hips back as you keep a flat back and tight core. Grab the barbell with the left hand and support yourself with your right hand. Pull the barbell up, towards you, contracting the back muscles. Slowly lower and repeat on the other side.",
         "category": [
             {
@@ -779,7 +779,7 @@
              {
         "id": 62,
         "name": "Pull-Ups",
-        "image": "blank",
+        "image": "/assets/pullup.png",
         "description": "Standing under a pull up bar, reach up and hold onto the bar with an overhand grip. Make sure your hands are about twice your shoulder width apart. Keep your arms straight and hang from the bar so that your arms are taking all of your weight. Keeping your body straight and not swinging your weight, pull your body up towards the bar by pulling your elbows down towards your torso at an angle. Continue lifting until your chest is nearly touching the bar. You should feel a “squeeze” at the base of your lats (about midway down your back and to the side) as they contract.  Once your lats have completely contracted at the top of the movement, slowly lower your body to the starting position. Repeat.",
         "category": [
             {
@@ -792,7 +792,7 @@
              {
         "id": 63,
         "name": "Rack Pulls",
-        "image": "blank",
+        "image": "/assets/rack-pull.png",
         "description": "Set up a power rack station so that the rack is at your knee height. Bend your knees as you drive your hips back. Keep your chest up. Grab the barbell with an overhand or mixed grip, based on comfort and preference level. Maintain a flat back as you stand up straight and drive your hips forward. Pause then slowly return to the starting point.",
         "category": [
             {
@@ -805,7 +805,7 @@
              {
         "id": 64,
         "name": "Resistance Band Bent Over Rows",
-        "image": "blank",
+        "image": "/assets/resistance-band-row.png",
         "description": "Begin the movement by stepping on to a resistance band with your feet at shoulder-width, toes pointed slightly out. Bend slightly at the knees and forward at the hips. Maintain a braced core and flat back throughout. Leading with your elbows, pull the handles of the resistance band back, bringing your shoulder blades closer together. Hold this contraction and slowly release to the starting position.",
         "category": [
             {
@@ -818,7 +818,7 @@
              {
         "id": 65,
         "name": "Seated Cable Rows",
-        "image": "blank",
+        "image": "/assets/seated-cable-row.png",
         "description": "Connect a V-bar attachment to the low pulley on a cable station or cable rowing machine. Sit down at the station and place your feet on the foot pads or crossbar provided, while keeping your knees slightly bent. Lean forward, keeping your back straight and grip the V-bar handles with both hands. Keeping your arms fully extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched, with your chest should be pushed out. This is the start position. Keeping your torso stationary, pull the handles back towards you while squeezing your back muscles. Keep your arms close to your sides until your hands reach your abdomen. Exhale as you perform this movement. Hold for a count of one. Inhale as you return to the start position in a smooth movement. Repeat.",
         "category": [
             {
@@ -831,7 +831,7 @@
              {
         "id": 66,
         "name": "Seated Machine Back Row",
-        "image": "blank",
+        "image": "/assets/seated-machine-row.png",
         "description": "Seat yourself at a Row Machine and select the appropriate weight. Sit up straight with a tight core. Reach forward and take an overhand grip on the bar in front of you. Activate your lats before the movement. Pull the bar towards you, emphasizing the lat movement. Pause when the bar is at your sides and squeeze your back. Slowly, return the bar to the starting position but do not set it down. Repeat the movement, ensuring your back is activated throughout.",
         "category": [
             {
@@ -844,7 +844,7 @@
              {
         "id": 67,
         "name": "One Arm Dumbbell Bench Rows",
-        "image": "blank",
+        "image": "/assets/single-arm-dumbbell-row.png",
         "description": "Place a dumbbell on each side of a flat bench. Place your right knee on the end of the bench. Bend your torso from the waist until your upper body is parallel to the floor, while placing your right hand on the bench in front of you for support. With your left hand, pick up the dumbbell with an overhand grip. The palm of your hand should be facing into you. Keep your lower back straight. This is the start position. Using your back muscles, pull the dumbbell straight up to the side of your chest, keeping your upper arm close to your side. Exhale as you do so. At the top of the movement, hold for a count of one and squeeze your back muscles. Return to the start position inhaling as you do so. Repeat. Complete all repetitions for one side before switching sides.",
         "category": [
             {
@@ -857,7 +857,7 @@
              {
         "id": 68,
         "name": "Standing Two Arm Bent Over Dumbbell Row",
-        "image": "blank",
+        "image": "/assets/bent-over-dumbbell-row.png",
         "description": "Stand tall with a tight core and flat back. Hold a pair of dumbbells at your side with an overhand grip. Bend slightly at the knees as you push your hips back. Keep your chest and head up. Upper body should be almost parallel with the floor. With your elbows at a 60-degree angle, bring the dumbbells up. Pause when your upper arm is parallel with the floor. Contract the muscle then slowly return the dumbbells to the starting point.",
         "category": [
             {
@@ -870,7 +870,7 @@
                  {
         "id": 68,
         "name": "V-Bar Lat Pulldowns",
-        "image": "blank",
+        "image": "/assets/v-bar-pulldown.png",
         "description": "Attach a V-bar / Triangle Bar to the Lat Pulldown machine. Sit on the bench and make sure your knees are secure. Reach up and grab the V-bar with an overhand grip. Be sure to brace your core. Begin the movement by leaning back slightly while pulling down on the V-bar. Be sure to engage your middle back during the movement. Once the V-bar is at your chest, pause, contract the muscle, and slowly release to the starting position.",
         "category": [
             {
@@ -883,7 +883,7 @@
                  {
         "id": 69,
         "name": "Wide-Grip Lat Pulldowns",
-        "image": "blank",
+        "image": "/assets/wide-grip-lat-pulldown.png",
         "description": "Set up a cable station with a straight bar attached to the top pulley. Sit on the seat facing the station. Keep your feet flat and planted firmly on the floor. Using an overhand grip, hold the bar as wide as comfortable. (Your hands should be about 1 1/2 – 2 times body width apart.) Lean back slightly without arching your back. Pull the bar towards the top of your chest using your shoulders while arcing your elbows out to the sides of your body. At the end of the movement squeeze you shoulders together slightly and hold for a count of one. Return to the start position by arcing your elbows forward while relaxing your shoulders. Repeat.",
         "category": [
             {
@@ -896,7 +896,7 @@
                  {
         "id": 70,
         "name": "TRX Row",
-        "image": "blank",
+        "image": "/assets/trx-row.png",
         "description": "Secure a pair of suspension straps. Stand facing the straps, brace your lower back, and tighten your core. Lean back, letting the straps hold your weight. Your arms should be straight. Pull yourself up with your back, maintaining a tight core. Squeeze the back muscles and slowly lower yourself. Repeat.",
         "category": [
             {
@@ -909,7 +909,7 @@
                  {
         "id": 71,
         "name": "Weighted Pull-Ups",
-        "image": "blank",
+        "image": "/assets/weighted-pullups.png",
         "description": "Carefully secure a weight belt around your hips. Stand below a pull-up bar. Reach up and secure your overhand grip. Brace your core. Begin the movement by pulling with your lat / middle back muscles to bring your body towards the bar. Once your chest nears the bar, pause to feel the contraction in your back then slowly lower yourself to the starting position. Do not lock out your elbows.",
         "category": [
             {
