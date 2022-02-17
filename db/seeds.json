@@ -532,7 +532,7 @@
             }
         ]
     },
-                       {
+    {
         "id": 43,
         "name": "Diamond Push-ups",
         "image": "blank",
@@ -544,7 +544,7 @@
             }
         ]
     },
-                       {
+    {
         "id": 44,
         "name": "Incline Close-Grip Bench Press",
         "image": "blank",
@@ -552,6 +552,532 @@
         "category": [
             {
                 "primaryMuscleGroup": "Triceps"
+   
+            }
+        ]
+    },
+        {
+        "id": 45,
+        "name": "Lying Dumbbell Tricep Extensions",
+        "image": "blank",
+        "description": "Lie flat on your back on a bench and position your feet flat on the floor on either side of the bench. With a dumbbell in each hand, extend your arms over head until fully extended. Your palms should face one another and your hands should be close together. Bend the elbows and lower the weights to either side of your head. Extend your arms to return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Triceps"
+   
+            }
+        ]
+    },
+        {
+        "id": 46,
+        "name": "Seated Single Arm Overhead Dumbbell Tricep Extensions",
+        "image": "blank",
+        "description": "Sit on a bench while holding a dumbbell in your left hand with an overhand grip. Tighten your core and straighten your lower back. Lift the dumbbell to shoulder height. Push the dumbbell overhead with your palm facing forward. Keep the upper arm in place. Slowly bend at the elbow and lower the weight behind your head. Push the dumbbell back up over your head squeezing the tricep muscle. Immediately begin the next repetition. Switch sides once you have completed all repetitions.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Triceps"
+   
+            }
+        ]
+    },
+        {
+        "id": 47,
+        "name": "Seated Tricep Overhead Extension",
+        "image": "blank",
+        "description": "Sit on a bench with back support. Grip a dumbbell at one end using both hands. Your palms should be facing inward. Hold the dumbbell overhead with your arms fully extended.  This is the the start position. Keep your upper arms close to your head (biceps roughly level with your temples) and near to 90degrees to the floor. Moving only your forearms, lower the dumbbell in a smooth arc behind your head until your forearms and biceps touch. Hold for a count of one. Return to the start position by using the triceps to extend your arm and raise the dumbbell. Exhale as you do this. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Triceps"
+   
+            }
+        ]
+    },
+        {
+        "id": 48,
+        "name": "Standing Overhead Barbell Triceps Extensions",
+        "image": "blank",
+        "description": "Stand with feet shoulder-width apart. Core is tight and back is flat. Hold a barbell with an overhand grip. Hands should be closer than shoulder-width. Bring the barbell above your head with arms fully extended. Keep the elbows up and the upper arm in place. Lower the barbell behind your head until your forearms touch your biceps. Return to the top of the movement.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Triceps"
+   
+            }
+        ]
+    },
+        {
+        "id": 49,
+        "name": "Tricep Cable Pushdowns",
+        "image": "blank",
+        "description": "Set up a cable station with a straight bar on attached to the top pulley. Grip the bar with an overhand grip, with your hands slightly less than shoulder width apart. Position your feet shoulder width apart, with knees slightly bent for stability. Pull the bar down until your forearms are parallel to the floor with your elbows close to your body and your wrists locked in a straight position. This is your staring point. Moving only your forearms, push the bar down towards the floor until your arms are fully extended and you feel a stretch in your triceps. Hold for a count of one and squeeze your triceps. Return to the start position moving your forearms only. Hold for a count of one then repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Triceps"
+   
+            }
+        ]
+    },
+        {
+        "id": 50,
+        "name": "Tricep Dips",
+        "image": "blank",
+        "description": "Standing between the bars of a dip station, grip the bars with an overhand grip,keeping your elbows tucked in close to your body. Allow your body weigh to hang so it is being supported by your arms and shoulders. Keep your hips straight. Push down through your palms with your arms, lifting your body up until your arms are almost straight. (Do not lock your elbows) Lower your body by slowly bending your elbows and continue down until you feel a slight stretch in your shoulders. Pause, then push yourself back to the starting position. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Triceps"
+   
+            }
+        ]
+    },
+         {
+        "id": 51,
+        "name": "Weighted Tricep Dips",
+        "image": "blank",
+        "description": "Carefully secure a weight belt around your hips. Step up to a dip bar. Position your hands on the bar with an overhand grip. Push yourself up and into the air with straight arms. Tighten the core to control stability. Begin the exercise by bending at the elbows and slowly lowering yourself. Once the upper arm is parallel with the ground, pause and push yourself back up. Be sure to focus the contraction into the triceps.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Triceps"
+   
+            }
+        ]
+    },
+         {
+        "id": 52,
+        "name": "Weighted Bench Dips",
+        "image": "blank",
+        "description": "Set up 2 flat benches opposite each other. They should be roughly the distance of your hips to the floor apart. Stand with your back to one bench, facing the other, then crouch down placing your palms behind you on the edge of the bench. Your arms should be fully extended at shoulder width, with your fingers facing forward. Place the heels of your feet on the other bench. Keep your legs fully extended. Have a spotter place a barbell weight plate or dumbbell on your lap. This is the start position. Slowly lower yourself down by bending your elbows, until they are at 90 degrees or slightly less. Hold for a count of one. Return to the starting position by pushing yourself up using only your triceps to straighten your arms. Hold then repeat",
+        "category": [
+            {
+                "primaryMuscleGroup": "Triceps"
+   
+            }
+        ]
+    },
+         {
+        "id": 53,
+        "name": "Bent Over Barbell Row From Floor",
+        "image": "blank",
+        "description": "Set up a barbell on the floor and stand facing it with your legs slightly wider than shoulder width apart and your knees slightly bent. Bend forward at your waist and grip the barbell with an overhand grip. Keep your back straight and nearly parallel to the floor. Keep your head and neck straight. This is the start position. Without moving your torso, exhale and lift the barbell up towards you from the floor. Keep your elbows close in to your body and use your forearms to support the weight. At the top of the movement, hold for a count of one and squeeze your back muscles. Return the barbell back to the floor as the start position, inhaling as you do so.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Middle Back/Lats and Lower Back",
+                "secondaryMuscleGroup": "Biceps, Upper Back & Lower Traps"
+   
+            }
+        ]
+    },
+         {
+        "id": 54,
+        "name": "Bent Over Barbell Rows",
+        "image": "blank",
+        "description": "Set up a barbell on the floor and stand facing it with your legs slightly wider than shoulder width apart and your knees slightly bent. Bend forward at your waist and grip the barbell with an overhand grip. Keep your back straight and nearly parallel to the floor. Keep your head and neck straight. This is the start position. Without moving your torso, exhale and lift the barbell up towards you. Keep your elbows close in to your body and use your forearms to support the weight. At the top of the movement, hold for a count of one and squeeze your back muscles. Return to the start position inhaling as you do so.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Middle Back/Lats and Lower Back",
+                "secondaryMuscleGroup": "Biceps, Upper Back & Lower Traps"
+   
+            }
+        ]
+    },
+         {
+        "id": 55,
+        "name": "T-Bar Row",
+        "image": "blank",
+        "description": "Set up an Olympic (long) barbell with weight plates on one end only. Put the other end of the bar against a wall or something heavy so it can’t slide backwards. Straddle the bar with your knees slightly bent. Bend forward at the waist until your torso is nearly parallel to the floor. Grip the bar close to the weight plates with both hands, using a neutral grip. One hand in front  the other. This is the start position. Keeping your back straight and exhaling, pull the bar straight up by bending your elbows until the plates touch your chest. Hold and squeeze your back muscles. Return to the start position in a slow smooth movement to place emphasis on your lats. Inhale as you do so. Keep the bar from touching the floor. pause then repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Middle Back/Lats and Lower Back",
+                "secondaryMuscleGroup": "Biceps, Upper Back & Lower Traps"
+   
+            }
+        ]
+    },
+         {
+        "id": 56,
+        "name": "Close Grip Lat Pulldown",
+        "image": "blank",
+        "description": "Sit at a Lat Pulldown machine and secure your legs underneath the padded surface. Select an appropriate weight on the stack. Reach up to grab the barbell, taking a close-grip. Your hands should be at or closer than shoulder-width. Tighten your core and keep your chest up as you pull the barbell down and towards your chest. Be sure to pull with your lat muscles. Once the bar is at your chest, slowly allow it to return to the starting position but don’t let the weight stack touch. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Middle Back/Lats",
+                "secondaryMuscleGroup": "Biceps"
+   
+            }
+        ]
+    },
+         {
+        "id": 57,
+        "name": "Chinup",
+        "image": "blank",
+        "description": "Step up to the bar and grasp it with your palms facing you and arms close together. Your arms should be fully extended. Cross your ankles and bend your knees, Pull your body up until your elbows are completely bent and close to your body, reaching your chin to the bar. Lower your body until your arms and legs are fully extended in the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Upper Back and Lower Traps",
+                "secondaryMuscleGroup": "Biceps"
+   
+            }
+        ]
+    },
+         {
+        "id": 58,
+        "name": "Dumbbell Incline Bench Rows",
+        "image": "blank",
+        "description": "Lean forward into an incline bench Using a neutral grip, hold a dumbbell in each hand so your palms are facing in. Your arms should be fully extended and hanging straight down. This is the start position. Pull your shoulder blades back and flex your elbows to pull the dumbbells up to your sides. Hold and squeeze your shoulder and back muscles. Return to the start position in a slow, controlled movement. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Lower Back, Middle Back / Lats",
+                "secondaryMuscleGroup": "Biceps, Shoulders"
+   
+            }
+        ]
+    },
+         {
+        "id": 59,
+        "name": "Inverted Rows",
+        "image": "blank",
+        "description": "Set the bar to your waist height. Lie on your back under the bar. Reach up and grip the bar with an overhand grip with both hands. Keeping your body straight,  pull yourself up towards the bar by pulling your elbows as far back as you can and trying to touch the bar with your chest. Hold and squeeze your arm and back muscles. Lower yourself back to the start position in a controlled motion. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Lower Back, Upper Back & Lower Traps",
+                "secondaryMuscleGroup": "Biceps, Shoulders"
+   
+            }
+        ]
+    },
+         {
+        "id": 60,
+        "name": "Machine Assisted Pullups",
+        "image": "blank",
+        "description": "Select the correct weight to counterbalance your own before beginning. The heavier the weight, the easier it will be. Reach above and use an overhand grip to secure yourself as you kneel on the padded surface of the assisted machine. Tighten your core as well as your glutes. Lower yourself slowly. Do not lock out the elbow. Pull yourself back to the starting position but do not let the weight touch the stack. Pause and repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Lower Back, Upper Back & Lower Traps",
+                "secondaryMuscleGroup": "Biceps, Shoulders"
+   
+            }
+        ]
+    },
+
+             {
+        "id": 61,
+        "name": "One Arm Barbell Rows",
+        "image": "blank",
+        "description": "Place weight on one end of a barbell. Straddle the barbell with the weight in front. Bend your knees and drive your hips back as you keep a flat back and tight core. Grab the barbell with the left hand and support yourself with your right hand. Pull the barbell up, towards you, contracting the back muscles. Slowly lower and repeat on the other side.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Lower Back, Middle Back / Lats",
+                "secondaryMuscleGroup": "Biceps"
+   
+            }
+        ]
+    },
+             {
+        "id": 62,
+        "name": "Pull-Ups",
+        "image": "blank",
+        "description": "Standing under a pull up bar, reach up and hold onto the bar with an overhand grip. Make sure your hands are about twice your shoulder width apart. Keep your arms straight and hang from the bar so that your arms are taking all of your weight. Keeping your body straight and not swinging your weight, pull your body up towards the bar by pulling your elbows down towards your torso at an angle. Continue lifting until your chest is nearly touching the bar. You should feel a “squeeze” at the base of your lats (about midway down your back and to the side) as they contract.  Once your lats have completely contracted at the top of the movement, slowly lower your body to the starting position. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Lower Back, Upper Back & Lower Traps",
+                "secondaryMuscleGroup": "Biceps, Forearms, Shoulders"
+   
+            }
+        ]
+    },
+             {
+        "id": 63,
+        "name": "Rack Pulls",
+        "image": "blank",
+        "description": "Set up a power rack station so that the rack is at your knee height. Bend your knees as you drive your hips back. Keep your chest up. Grab the barbell with an overhand or mixed grip, based on comfort and preference level. Maintain a flat back as you stand up straight and drive your hips forward. Pause then slowly return to the starting point.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Lower Back",
+                "secondaryMuscleGroup": "Hamstrings, Quadriceps, Glutes"
+   
+            }
+        ]
+    },
+             {
+        "id": 64,
+        "name": "Resistance Band Bent Over Rows",
+        "image": "blank",
+        "description": "Begin the movement by stepping on to a resistance band with your feet at shoulder-width, toes pointed slightly out. Bend slightly at the knees and forward at the hips. Maintain a braced core and flat back throughout. Leading with your elbows, pull the handles of the resistance band back, bringing your shoulder blades closer together. Hold this contraction and slowly release to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Middle Back / Lats",
+                "secondaryMuscleGroup": "Biceps"
+   
+            }
+        ]
+    },
+             {
+        "id": 65,
+        "name": "Seated Cable Rows",
+        "image": "blank",
+        "description": "Connect a V-bar attachment to the low pulley on a cable station or cable rowing machine. Sit down at the station and place your feet on the foot pads or crossbar provided, while keeping your knees slightly bent. Lean forward, keeping your back straight and grip the V-bar handles with both hands. Keeping your arms fully extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched, with your chest should be pushed out. This is the start position. Keeping your torso stationary, pull the handles back towards you while squeezing your back muscles. Keep your arms close to your sides until your hands reach your abdomen. Exhale as you perform this movement. Hold for a count of one. Inhale as you return to the start position in a smooth movement. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Upper Back & Lower Traps",
+                "secondaryMuscleGroup": "Biceps, Shoulders"
+   
+            }
+        ]
+    },
+             {
+        "id": 66,
+        "name": "Seated Machine Back Row",
+        "image": "blank",
+        "description": "Seat yourself at a Row Machine and select the appropriate weight. Sit up straight with a tight core. Reach forward and take an overhand grip on the bar in front of you. Activate your lats before the movement. Pull the bar towards you, emphasizing the lat movement. Pause when the bar is at your sides and squeeze your back. Slowly, return the bar to the starting position but do not set it down. Repeat the movement, ensuring your back is activated throughout.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Middle Back / Lats",
+                "secondaryMuscleGroup": "Biceps"
+   
+            }
+        ]
+    },
+             {
+        "id": 67,
+        "name": "One Arm Dumbbell Bench Rows",
+        "image": "blank",
+        "description": "Place a dumbbell on each side of a flat bench. Place your right knee on the end of the bench. Bend your torso from the waist until your upper body is parallel to the floor, while placing your right hand on the bench in front of you for support. With your left hand, pick up the dumbbell with an overhand grip. The palm of your hand should be facing into you. Keep your lower back straight. This is the start position. Using your back muscles, pull the dumbbell straight up to the side of your chest, keeping your upper arm close to your side. Exhale as you do so. At the top of the movement, hold for a count of one and squeeze your back muscles. Return to the start position inhaling as you do so. Repeat. Complete all repetitions for one side before switching sides.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Lower Back, Upper Back & Lower Traps",
+                "secondaryMuscleGroup": "Biceps, Shoulders"
+   
+            }
+        ]
+    },
+             {
+        "id": 68,
+        "name": "Standing Two Arm Bent Over Dumbbell Row",
+        "image": "blank",
+        "description": "Stand tall with a tight core and flat back. Hold a pair of dumbbells at your side with an overhand grip. Bend slightly at the knees as you push your hips back. Keep your chest and head up. Upper body should be almost parallel with the floor. With your elbows at a 60-degree angle, bring the dumbbells up. Pause when your upper arm is parallel with the floor. Contract the muscle then slowly return the dumbbells to the starting point.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Lower Back, Upper Back & Lower Traps",
+                "secondaryMuscleGroup": "Biceps, Shoulders"
+   
+            }
+        ]
+    },
+                 {
+        "id": 68,
+        "name": "V-Bar Lat Pulldowns",
+        "image": "blank",
+        "description": "Attach a V-bar / Triangle Bar to the Lat Pulldown machine. Sit on the bench and make sure your knees are secure. Reach up and grab the V-bar with an overhand grip. Be sure to brace your core. Begin the movement by leaning back slightly while pulling down on the V-bar. Be sure to engage your middle back during the movement. Once the V-bar is at your chest, pause, contract the muscle, and slowly release to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Middle Back / Lats",
+                "secondaryMuscleGroup": "Biceps"
+   
+            }
+        ]
+    },
+                 {
+        "id": 69,
+        "name": "Wide-Grip Lat Pulldowns",
+        "image": "blank",
+        "description": "Set up a cable station with a straight bar attached to the top pulley. Sit on the seat facing the station. Keep your feet flat and planted firmly on the floor. Using an overhand grip, hold the bar as wide as comfortable. (Your hands should be about 1 1/2 – 2 times body width apart.) Lean back slightly without arching your back. Pull the bar towards the top of your chest using your shoulders while arcing your elbows out to the sides of your body. At the end of the movement squeeze you shoulders together slightly and hold for a count of one. Return to the start position by arcing your elbows forward while relaxing your shoulders. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Middle Back / Lats",
+                "secondaryMuscleGroup": "Biceps"
+   
+            }
+        ]
+    },
+                 {
+        "id": 70,
+        "name": "TRX Row",
+        "image": "blank",
+        "description": "Secure a pair of suspension straps. Stand facing the straps, brace your lower back, and tighten your core. Lean back, letting the straps hold your weight. Your arms should be straight. Pull yourself up with your back, maintaining a tight core. Squeeze the back muscles and slowly lower yourself. Repeat.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Lower Back, Upper Back & Lower Traps",
+                "secondaryMuscleGroup": "Biceps, Shoulders"
+   
+            }
+        ]
+    },
+                 {
+        "id": 71,
+        "name": "Weighted Pull-Ups",
+        "image": "blank",
+        "description": "Carefully secure a weight belt around your hips. Stand below a pull-up bar. Reach up and secure your overhand grip. Brace your core. Begin the movement by pulling with your lat / middle back muscles to bring your body towards the bar. Once your chest nears the bar, pause to feel the contraction in your back then slowly lower yourself to the starting position. Do not lock out your elbows.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Middle Back / Lats",
+                "secondaryMuscleGroup": "Biceps"
+   
+            }
+        ]
+    },
+                 {
+        "id": 72,
+        "name": "Air Squats",
+        "image": "blank",
+        "description": "Place your feet at shoulder width apart while keeping your chest up and your abdominals braced.Begin the movement by swinging your arms up towards your shoulders. At the same time, bend at the knees and drive your hips back like you’re sitting in a chair. Once your upper thighs are parallel with the ground, pause, then drive your hips forward to return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes"
+   
+            }
+        ]
+    },
+                 {
+        "id": 73,
+        "name": "Alternating Bodyweight Lunges",
+        "image": "blank",
+        "description": "Stand straight – that’s the starting position. Step forward with your left leg and slowly lower your body until your front knee is bent at least 90 degrees, while your rear knee is just off the floor. Keep your torso upright the entire time. Look forward. Pause, then push off your left foot off the floor and return to the starting position as quickly as you can. On your next rep, step forward with your right leg. Continue to alternate back and forth—doing one rep with your left, then one rep with your right.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes"
+   
+            }
+        ]
+    },
+                 {
+        "id": 74,
+        "name": "Alternating Curtsy Lunges",
+        "image": "blank",
+        "description": "Standing with a braced core and flat back, bring your hands together at chest height. Position your feet to be at hip-width. Beginning with the right foot, step backward and across your left foot. Simultaneously, bend the left knee and drop it towards the ground. Stop when the front right knee is parallel with the ground. Push off the ground with your right foot and return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes, Hip Flexors"
+   
+            }
+        ]
+    },
+                 {
+        "id": 75,
+        "name": "Barbell Box Squats",
+        "image": "blank",
+        "description": "Begin by positioning a barbell at or just below shoulder level in the squat rack. Behind the squat rack, place a tall wooden box or chair. Place yourself underneath the barbell. Make sure the bar is across your upper traps and NOT on your neck. Place your feet outside of shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up. Bend at the knees as you drive your hips back. Lower yourself slowly until your butt touches the box. Pause then drive your hips forward to return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes, Hip Flexors"
+   
+            }
+        ]
+    },
+                     {
+        "id": 76,
+        "name": "Barbell Hack Squats",
+        "image": "blank",
+        "description": "Begin by placing a loaded barbell behind you. Place two 25 lb plates under the back of your feet. Tighten your core and straighten your lower back. Slowly squat down, getting a good grip on the barbell behind you. Check to make sure your posture is still perfect and balanced. Stand up while holding the barbell behind. Use your heels to drive yourself back up. Do not straighten your knees at the top. Slowly lower yourself back down, driving your hips behind you. Repeat the movement.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes, Hip Flexors"
+   
+            }
+        ]
+    },
+                     {
+        "id": 75,
+        "name": "Barbell Box Squats",
+        "image": "blank",
+        "description": "Begin by positioning a barbell at or just below shoulder level in the squat rack. Behind the squat rack, place a tall wooden box or chair. Place yourself underneath the barbell. Make sure the bar is across your upper traps and NOT on your neck. Place your feet outside of shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up. Bend at the knees as you drive your hips back. Lower yourself slowly until your butt touches the box. Pause then drive your hips forward to return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes, Hip Flexors"
+   
+            }
+        ]
+    },
+                     {
+        "id": 75,
+        "name": "Barbell Box Squats",
+        "image": "blank",
+        "description": "Begin by positioning a barbell at or just below shoulder level in the squat rack. Behind the squat rack, place a tall wooden box or chair. Place yourself underneath the barbell. Make sure the bar is across your upper traps and NOT on your neck. Place your feet outside of shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up. Bend at the knees as you drive your hips back. Lower yourself slowly until your butt touches the box. Pause then drive your hips forward to return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes, Hip Flexors"
+   
+            }
+        ]
+    },
+                     {
+        "id": 75,
+        "name": "Barbell Box Squats",
+        "image": "blank",
+        "description": "Begin by positioning a barbell at or just below shoulder level in the squat rack. Behind the squat rack, place a tall wooden box or chair. Place yourself underneath the barbell. Make sure the bar is across your upper traps and NOT on your neck. Place your feet outside of shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up. Bend at the knees as you drive your hips back. Lower yourself slowly until your butt touches the box. Pause then drive your hips forward to return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes, Hip Flexors"
+   
+            }
+        ]
+    },
+                     {
+        "id": 75,
+        "name": "Barbell Box Squats",
+        "image": "blank",
+        "description": "Begin by positioning a barbell at or just below shoulder level in the squat rack. Behind the squat rack, place a tall wooden box or chair. Place yourself underneath the barbell. Make sure the bar is across your upper traps and NOT on your neck. Place your feet outside of shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up. Bend at the knees as you drive your hips back. Lower yourself slowly until your butt touches the box. Pause then drive your hips forward to return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes, Hip Flexors"
+   
+            }
+        ]
+    },
+                     {
+        "id": 75,
+        "name": "Barbell Box Squats",
+        "image": "blank",
+        "description": "Begin by positioning a barbell at or just below shoulder level in the squat rack. Behind the squat rack, place a tall wooden box or chair. Place yourself underneath the barbell. Make sure the bar is across your upper traps and NOT on your neck. Place your feet outside of shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up. Bend at the knees as you drive your hips back. Lower yourself slowly until your butt touches the box. Pause then drive your hips forward to return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes, Hip Flexors"
+   
+            }
+        ]
+    },
+                     {
+        "id": 75,
+        "name": "Barbell Box Squats",
+        "image": "blank",
+        "description": "Begin by positioning a barbell at or just below shoulder level in the squat rack. Behind the squat rack, place a tall wooden box or chair. Place yourself underneath the barbell. Make sure the bar is across your upper traps and NOT on your neck. Place your feet outside of shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up. Bend at the knees as you drive your hips back. Lower yourself slowly until your butt touches the box. Pause then drive your hips forward to return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes, Hip Flexors"
+   
+            }
+        ]
+    },
+                     {
+        "id": 75,
+        "name": "Barbell Box Squats",
+        "image": "blank",
+        "description": "Begin by positioning a barbell at or just below shoulder level in the squat rack. Behind the squat rack, place a tall wooden box or chair. Place yourself underneath the barbell. Make sure the bar is across your upper traps and NOT on your neck. Place your feet outside of shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up. Bend at the knees as you drive your hips back. Lower yourself slowly until your butt touches the box. Pause then drive your hips forward to return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes, Hip Flexors"
+   
+            }
+        ]
+    },
+                     {
+        "id": 75,
+        "name": "Barbell Box Squats",
+        "image": "blank",
+        "description": "Begin by positioning a barbell at or just below shoulder level in the squat rack. Behind the squat rack, place a tall wooden box or chair. Place yourself underneath the barbell. Make sure the bar is across your upper traps and NOT on your neck. Place your feet outside of shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up. Bend at the knees as you drive your hips back. Lower yourself slowly until your butt touches the box. Pause then drive your hips forward to return to the starting position.",
+        "category": [
+            {
+                "primaryMuscleGroup": "Quadriceps",
+                "secondaryMuscleGroup": "Hamstrings, Glutes, Hip Flexors"
    
             }
         ]
