@@ -6,7 +6,7 @@ const ExerciseSchema = new mongoose.Schema({
 	image: String,
 	image2: String,
 	description: String,
-	categories: [
+	category: [
 		{
 			primaryMuscleGroup: String,
 			secondaryMuscleGroup: String,

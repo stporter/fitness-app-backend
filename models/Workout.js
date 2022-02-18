@@ -3,6 +3,7 @@ const mongoose = require('../db/connection');
 const WorkoutSchema = new mongoose.Schema({
 	id: Number,
 	workoutName: String,
+	// workoutCategory: String,
 	workoutExercises: [
 		{
 			id: Number,

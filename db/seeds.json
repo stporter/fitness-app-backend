@@ -922,7 +922,7 @@
                  {
         "id": 72,
         "name": "Air Squats",
-        "image": "blank",
+        "image": "/assets/air-squats.png",
         "description": "Place your feet at shoulder width apart while keeping your chest up and your abdominals braced.Begin the movement by swinging your arms up towards your shoulders. At the same time, bend at the knees and drive your hips back like you’re sitting in a chair. Once your upper thighs are parallel with the ground, pause, then drive your hips forward to return to the starting position.",
         "category": [
             {
@@ -935,7 +935,7 @@
                  {
         "id": 73,
         "name": "Alternating Bodyweight Lunges",
-        "image": "blank",
+        "image": "/assets/bodyweight-lunges.png",
         "description": "Stand straight – that’s the starting position. Step forward with your left leg and slowly lower your body until your front knee is bent at least 90 degrees, while your rear knee is just off the floor. Keep your torso upright the entire time. Look forward. Pause, then push off your left foot off the floor and return to the starting position as quickly as you can. On your next rep, step forward with your right leg. Continue to alternate back and forth—doing one rep with your left, then one rep with your right.",
         "category": [
             {
@@ -948,7 +948,7 @@
                  {
         "id": 74,
         "name": "Alternating Curtsy Lunges",
-        "image": "blank",
+        "image": "/assets/curtsy-lunges.png",
         "description": "Standing with a braced core and flat back, bring your hands together at chest height. Position your feet to be at hip-width. Beginning with the right foot, step backward and across your left foot. Simultaneously, bend the left knee and drop it towards the ground. Stop when the front right knee is parallel with the ground. Push off the ground with your right foot and return to the starting position.",
         "category": [
             {
@@ -961,7 +961,7 @@
                  {
         "id": 75,
         "name": "Barbell Box Squats",
-        "image": "blank",
+        "image": "/assets/box-squats.png",
         "description": "Begin by positioning a barbell at or just below shoulder level in the squat rack. Behind the squat rack, place a tall wooden box or chair. Place yourself underneath the barbell. Make sure the bar is across your upper traps and NOT on your neck. Place your feet outside of shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up. Bend at the knees as you drive your hips back. Lower yourself slowly until your butt touches the box. Pause then drive your hips forward to return to the starting position.",
         "category": [
             {
@@ -974,7 +974,7 @@
                      {
         "id": 76,
         "name": "Barbell Hack Squats",
-        "image": "blank",
+        "image": "/assets/barbell-hack-squats.png",
         "description": "Begin by placing a loaded barbell behind you. Place two 25 lb plates under the back of your feet. Tighten your core and straighten your lower back. Slowly squat down, getting a good grip on the barbell behind you. Check to make sure your posture is still perfect and balanced. Stand up while holding the barbell behind. Use your heels to drive yourself back up. Do not straighten your knees at the top. Slowly lower yourself back down, driving your hips behind you. Repeat the movement.",
         "category": [
             {
@@ -987,7 +987,7 @@
                      {
         "id": 77,
         "name": "Barbell Lunges",
-        "image": "blank",
+        "image": "/assets/barbell-lunges.png",
         "description": "Set up a  barbell on a rack  at just below shoulder level. Step under the bar placing the back of your shoulders under it. Do not rest the bar on your neck. Grip the the bar using an overhand grip with your elbows bent to90 degrees or slightly more. Less of an angle means your hands are too close together which can cause instability of balance. Lift the barbell clear of the rack by  pushing with your legs, while straightening your torso. Step away from the rack. Step forward with your right leg and squat down through your hips. Keep your back straight  and be careful to maintain your balance. Inhale as you lower yourself. Continue lowering your body until your left knee is nearly touching the floor. Return to the start position b pushing through your heel, exhaling as you do so. Complete all the repetitions for one leg before switching.",
         "category": [
             {
@@ -1000,7 +1000,7 @@
                      {
         "id": 78,
         "name": "Barbell Overhead Squats",
-        "image": "blank",
+        "image": "/assets/overhead-barbell-squat.png",
         "description": "Place an appropriate amount of weight on a barbell in a squat rack. Position your hands in an overhand grip outside of shoulder-width on the barbell. Before beginning, make sure that your core is tight and your chest is up. Push the barbell straight above your head, locking out your elbows. Once you feel stabilized, slowly bend the knees and drive back your hips. Once your upper thighs come parallel with the ground, slowly push back up, returning to the starting position.",
         "category": [
             {
@@ -1013,7 +1013,7 @@
                      {
         "id": 79,
         "name": "Barbell Split Squats",
-        "image": "blank",
+        "image": "/assets/barbell-split-squat.png",
         "description": "Place an appropriate amount of weight on a barbell in a squat rack. Once ready, position yourself underneath the barbell. Keep your core tight and drive your hips forward to lift the barbell off the rack. Step away from the rack. Secure the barbell on your traps and make sure your core is braced before beginning. Step out with the left foot, leaving the right foot behind. From this position, lower the back right knee towards the ground. Push up with your front left leg. Please note that you will not kick back up into a regular standing position until all repetitions have been completed. Continue this up and down pattern. Switch sides and perform the same pattern with the right leg in front.",
         "category": [
             {
@@ -1026,7 +1026,7 @@
                      {
         "id": 80,
         "name": "Barbell Back Squats",
-        "image": "blank",
+        "image": "/assets/barbell-squats.png",
         "description": "Set up the barbell on the squat rack so that it is at the same height as your upper chest. Position your body under the bar, with knees bent so that the bar is resting high on the back of your shoulders. Grip the bar with your hands comfortably wider than your shoulders. Slowly straighten your legs to push upwards, lifting the barbell from the rack and take one step forward. Stand with your legs shoulder width apart. Bend your knees forward and allow your hips to bend back as if sitting down, Continue this movement down until your thighs are parallel to the floor or slightly more, making sure your knees are pointing in the same direction as your feet. Hold for a count of one. Push up through your heels while straightening your hips and knees, until you are standing in the start position. Make any adjustments necessary to your stance and grip before continuing on the next repetition.",
         "category": [
             {
@@ -1039,7 +1039,7 @@
                      {
         "id": 81,
         "name": "Barbell Step-Ups",
-        "image": "blank",
+        "image": "/assets/barbell-stepups.png",
         "description": "Set up a barbell in a rack at shoulder height. In front of the rack, place an aerobic or exercise step on the floor. Position yourself under the barbell so it is resting across your shoulder. Not on your neck. Stand up straight to lift the barbell from the rack and walk forward to the step. Place one foot on the step and push down through your heel while straightening your leg to lift yourself up onto the step and place your other foot flat on the step.Hold fora count of one. Step down with the opposite leg to the one you started the movement with. Repeat all the repetitions of the set for your chosen lead leg before changing to the other.",
         "category": [
             {
@@ -1052,7 +1052,7 @@
                      {
         "id": 82,
         "name": "Lateral Lunges",
-        "image": "blank",
+        "image": "/assets/bodyweight-side-lunge.png",
         "description": "Stand tall with a tight core and make sure your feet are shoulder-width apart. Bring your hands together for balance. Step directly to the left, leaving your right foot in place. Bend the left knee and pause once the upper left thigh is parallel to the ground. Your right leg should be completely straight. Contract the hamstring muscle then push off the ground to return to the starting position. Repeat on the right side. Alternate this movement.",
         "category": [
             {
@@ -1065,7 +1065,7 @@
                      {
         "id": 83,
         "name": "Bodyweight Sumo Squats",
-        "image": "blank",
+        "image": "/assets/bodyweight-sumo-squat.png",
         "description": "Stand with your feet in a wide stance, with your toes slightly pointed outwards – like a sumo wrestler. Hold your hands together in front of your chest. Keeping your back straight, lower your body towards the ground by bending your knees. As you reach a fully squatting position (legs are bent at a 90-degree angle), hold the pose for 1 second before driving your feet into the floor and slowly push your body back up to the starting position. For a bonus, tense your glutes at the top of the movement.",
         "category": [
             {
@@ -1078,7 +1078,7 @@
                      {
         "id": 84,
         "name": "Bulgarian Split Squats",
-        "image": "blank",
+        "image": "/assets/bulgarian-split-squat.png",
         "description": "Stand up straight while holding two dumbbells. Maintain a tight core and flat back as you carefully place your right foot on top of a bench behind you with toes facing down.  Bend at the front knee as you drop the back knee, maintaining perfect form. Front knee should not go over the toes. Allow your thigh to come to parallel with the floor. Pause then slowly return to the starting position without locking out your knee. Repeat then switch sides once set is complete.",
         "category": [
             {
@@ -1091,7 +1091,7 @@
                         {
         "id": 85,
         "name": "Cable Hip Abduction/Adduction",
-        "image": "blank",
+        "image": "/assets/cable-hip-adbduction.png",
         "description": "Standing sideways with your left side facing the weight stack of a pulley machine, attach an ankle cuff to the right ankle. Hold the machine for balance if you need to and slowly lift your right leg up to the right side. Pause and slowly return your right leg to starting position. Repeat the movement.",
         "category": [
             {
@@ -1104,7 +1104,7 @@
                         {
         "id": 86,
         "name": "Dumbbell Lunges",
-        "image": "blank",
+        "image": "/assets/dumbbell-lunge.png",
         "description": "Holding a dumbbell in each hand, stand with your feet shoulder width apart. Keep your shoulders back and your back straight. Take a long stride forward with your right leg. Your right foot should be in a position, that when you bend your right knee, your upper and lower leg form a 90 degree angle. Slowly bend both your knees, to lower your hips until your left (rear) knee is just above the floor. Hold for a count of one Return to the start position by slowly straightening your legs and raising your body back to a standing position  Complete all the repetitions for one set full set, then switch legs, or you can alternate between legs for each rep.",
         "category": [
             {
@@ -1117,7 +1117,7 @@
                         {
         "id": 87,
         "name": "Dumbbell Squat to Overhead Press",
-        "image": "blank",
+        "image": "/assets/dumbbell-squat-push-press.png",
         "description": "Stand with your feet shoulder-width apart with dumbbells above your shoulders. Squat down keeping your back flat and your knees over your toes. Push through your heels to return to standing while pressing the dumbbells overhead with arms fully extended. Return to starting position and repeat.",
         "category": [
             {
@@ -1130,7 +1130,7 @@
                         {
         "id": 88,
         "name": "Dumbbell Squats",
-        "image": "blank",
+        "image": "/assets/dumbbell-squat.png",
         "description": "With your feet shoulder-width apart, stand with dumbbells as your sides with your palms facing each other. Keeping your back straight and facing forward, squat down until your thighs are parallel to the floor. Pause for one second. Pushing up from your heels, raise back up to starting position and repeat.",
         "category": [
             {
@@ -1143,7 +1143,7 @@
                         {
         "id": 89,
         "name": "Dumbbell Step-ups",
-        "image": "blank",
+        "image": "/assets/dumbbell-stepup.png",
         "description": "Place a bench in front of you. Hold a pair of dumbbells and stand facing the bench. Brace your core and keep your gaze straight ahead. Bring your right knee up and step up on to the bench. Placing all of the effort in your right leg, bring your body up into a standing position on the bench. Slowly lower yourself to the starting position and switch legs.",
         "category": [
             {
@@ -1156,7 +1156,7 @@
                         {
         "id": 90,
         "name": "Dumbbell Walking Lunges",
-        "image": "blank",
+        "image": "/assets/dumbbell-walking-lunge.png",
         "description": "Holding a pair of dumbbells at your sides, stand tall with your chest up and abdominals contracted. Begin the movement by stepping forward with the left foot. Drop the back right knee towards the floor and keep the left knee bent. Drive yourself up and take a step forward with your right foot. The left knee will go towards the floor and you’ll bend the right knee. Continue this back and forth pattern. Be sure to keep the abdominals braced during the entire movement.",
         "category": [
             {
@@ -1169,7 +1169,7 @@
                         {
         "id": 91,
         "name": "Barbell Front Squats",
-        "image": "blank",
+        "image": "/assets/barbell-front-squat.png",
         "description": "Position yourself under a barbell held by a squat rack. Keeping your elbows high, place your arms up and under the bar. The bar should be resting on the front of your shoulders. Core is tight. Back is flat. Maintaining control, lift the bar up. Bend your knees forward and allow your hips to bend back as if sitting down. Pause when thighs are parallel with the floor. Return to the starting position and repeat.",
         "category": [
             {
@@ -1182,7 +1182,7 @@
                         {
         "id": 92,
         "name": "Goblet Squats",
-        "image": "blank",
+        "image": "/assets/goblet-squat.png",
         "description": "Stand with your feet shoulder width apart while holding a light dumbbell to your chest. You should hold the dumbbell by one end between your hands, with the other end extending down your torso. This is the start position. Squat down keeping your slightly arched and pushing your hips back. Continue down until your thighs are parallel to the floor. Hold for a count of one. Return to the start position. Repeat.",
         "category": [
             {
@@ -1195,7 +1195,7 @@
                         {
         "id": 93,
         "name": "Bulgarian Split Squats",
-        "image": "blank",
+        "image": "/assets/bulgarian-split-squat.png",
         "description": "Stand up straight while holding two dumbbells. Maintain a tight core and flat back as you carefully place your right foot on top of a bench behind you with toes facing down.  Bend at the front knee as you drop the back knee, maintaining perfect form. Front knee should not go over the toes. Allow your thigh to come to parallel with the floor. Pause then slowly return to the starting position without locking out your knee. Repeat then switch sides once set is complete.",
         "category": [
             {
@@ -1208,7 +1208,7 @@
     {
         "id": 94,
         "name": "Jump Squats",
-        "image": "blank",
+        "image": "/assets/bodyweight-jump-squat.png",
         "description": "Stand with your feet hip width apart. Your toes should be pointing straight ahead or only slightly outward. Cross your arms in front of your body, place your hands behind your head or at the sides of your head. Keep your weight on your heels and bend your knees while lowering your hips towards the ground as if you are sitting down on a chair. Keep your back straight at all times. Continue until you feel a slight stretch in your quadriceps. Do not let your knees extend out beyond the level of your toes. Pause for a count of one. In an explosive movement, drive down through your heels pushing yourself up of the floor with your quads. At the same time extend our arms out above you. Land with your knees slightly bent to absorb the impact. Repeat",
         "category": [
             {
@@ -1221,7 +1221,7 @@
        {
         "id": 95,
         "name": "Kettlebell Deadlift",
-        "image": "blank",
+        "image": "/assets/kettlebell.deadlits.png",
         "description": "Place a kettlebell on the ground. Step over the kettlebell so that it is in the center beneath you. Move your feet to shoulder-width or just outside of shoulder-width. Tighten your core and keep your chest up. Begin by kicking your hips back and slightly bending your knees. Extend your arms down to grab onto the kettlebell. Holding on to the kettlebell, drive your hips forward to stand back up. Slowly, reverse the movement by kicking your hips back and slightly bending the knees. Do not let your lower back arch.",
         "category": [
             {
@@ -1234,7 +1234,7 @@
        {
         "id": 96,
         "name": "Kettlebell Squats",
-        "image": "blank",
+        "image": "/assets/kettlebell-squats.png",
         "description": "Stand with your feet slightly wider than shoulder width apart Hold the kettlebell with both hands in an overhand grip in front of your chest. Keep your elbows locked at your sides.   Lower your body towards the ground, ensuring that you’re not leaning too far forwards or too far backwards. At your lowest point, drive upwards through your feet and tense your glutes at the top of the motion.",
         "category": [
             {
@@ -1247,7 +1247,7 @@
        {
         "id": 97,
         "name": "Leg Press Machine",
-        "image": "blank",
+        "image": "/assets/leg-press.png",
         "description": "Sit down on a leg press machine and place your legs on the platform directly in front of you at shoulder width. Lower the safety bars holding the weighted platform  and press the platform all the way up until your legs are fully extended in front of you bot do NOT lock your knees. Your torso and legs should be at a 90degree angle to each other. This is the start position. Inhaling, slowly lower the platform until your upper and lower legs form a 90-degree angle. Pause for a count of one, Return to the starting position by pushing through the heels of your feet, engaging your quadriceps. Exhale as you do so. Repeat. After completing the desired number of repetitions, make sure you lock the safety pins of the machine before alighting.",
         "category": [
             {
@@ -1260,7 +1260,7 @@
        {
         "id": 98,
         "name": "Lying Hamstring Curl",
-        "image": "blank",
+        "image": "/assets/lying-leg-curl.png",
         "description": "Lie face down on a leg curl machine and lock your heels under the foot pad. Make sure your legs are fully extended and the foot pads are resting on the back of your ankles. If the machine is equipped with handles, grip them. If not, grip the front of the pad you are lying on. Remaining flat on the bench, with no arching of your spine, curl your legs up in a smooth arcing motion by bending your knees until your hamstrings are fully contracted. Hold for a count of one. Slowly lower your legs to the starting position in a smooth arcing motion. Repeat",
         "category": [
             {
@@ -1273,7 +1273,7 @@
        {
         "id": 99,
         "name": "Machine Hack Squats",
-        "image": "blank",
+        "image": "/assets/hack-squat-machine.png",
         "description": "Place your back flat against the back pad of the hack machine and position your shoulders under the shoulder pads. Place your legs in a shoulder width stance with your toes pointed out slightly. Grip the side handles of the machine and disengage the safety bars. Straighten your legs, but do not lock your knees. This is the start position. Inhale as you slowly lower the weight by bending your knees. Continue down until the angle between your upper legs and your calves is slightly less than 90-degrees. Your outer knee should be in line with your toes. Do not extend your knees past your toes. Hold for a count of one. Return to the start position by pushing down through your heels and extending your legs, exhaling as you do so. When you reach the starting position ,hold for a count of one. Repeat",
         "category": [
             {
@@ -1286,7 +1286,7 @@
        {
         "id": 100,
         "name": "One Arm Kettlebell swings",
-        "image": "blank",
+        "image": "/assets/single-arm-kettlebell-swing.png",
         "description": "Start with one kettlebell placed on the floor between your feet. Bend your knees and back slightly and reach down to grip the kettlebell in an overhand grip. Explode upwards using your legs and bring the arm holding the kettlebell out in front of you until it reaches a horizontal level. Lower the kettlebell back between your legs (but not to the floor) and switch hands to repeat the movement.",
         "category": [
             {
@@ -1299,7 +1299,7 @@
        {
         "id": 101,
         "name": "Overhead Plate Squat",
-        "image": "blank",
+        "image": "/assets/overhead-plate-squat.png",
         "description": "Place a firm grip on an appropriately weighted plate. Before driving the plate above your head, make sure that your core is tight, your chest is up, and your grip is solid. Push the plate straight above your head, locking out your elbows. Once you feel stabilized, slowly bend the knees and drive your hips backwards, maintaining a tight, solid core as you do so. Once your upper thighs become parallel with the ground, slowly push back up, returning to the starting position. Be sure to keep that plate fixed overhead throughout the entire movement.",
         "category": [
             {
@@ -1312,7 +1312,7 @@
        {
         "id": 102,
         "name": "Pistol Squats",
-        "image": "blank",
+        "image": "/assets/pistol-squats.png",
         "description": "Stand straight with your feet hip width apart, arms fully extended and your hands by your sides. Raise your left foot from the floor, extending your leg out in front of you. As you do so, raise both arms out in front of you in a smooth arc for balance. This is the start position. In a controlled movement, lower your body toward the floor by bending your right knee while pushing your hips back as if sitting down in a chair. Continue this downward movement until your right thigh is parallel to the floor. Hold for a count of one. Return to the start position by pushing down through your right heel and straightening your leg. Lower your arms to the start position as you do so. Repeat.",
         "category": [
             {
@@ -1325,7 +1325,7 @@
        {
         "id": 103,
         "name": "Resistance Band Deadlifts",
-        "image": "blank",
+        "image": "/assets/resistance-band-deadlift.png",
         "description": "Holding the handles of the resistance band, step on to the middle. Place your feet at shoulder-width with toes pointing forward. Tighten your core and keep your chest up. Bend your knees slightly and drive your hips back but NOT lower than your knees. Again, keep the chest up. This is the starting position. Forcefully contract your glutes, driving them forward. Do not just lean back. Your glutes should be fully contracted. Pause then return to the starting position.",
         "category": [
             {
@@ -1338,7 +1338,7 @@
        {
         "id": 104,
         "name": "Resistance Band Squats",
-        "image": "blank",
+        "image": "/assets/resistance-band-squat.png",
         "description": "Begin the movement by stepping on to a resistance band with your feet at shoulder-width, toes pointed slightly out. Bring your hands to your shoulders, keeping the handles of the band behind your shoulders. Brace your core and keep your chest up. Bend first at the knees then at the hips. Be sure to keep the chest up and abdominals tight. There should be no arch in your back. Pause when your thighs are parallel with the floor, then slowly return to the starting position, feeling the tension from the band in your quadriceps.",
         "category": [
             {
@@ -1351,7 +1351,7 @@
          {
         "id": 105,
         "name": "Hip Adductor Machine",
-        "image": "blank",
+        "image": "/assets/hip-adductor-machine.png",
         "description": "Set up an adductor machine by selecting and appropriate weight and adjusting the seat and leg pads to a comfortable position. If fitted, grasp the handles on each side of the machine. Keep your entire upper body straight and stationary with your back pressed firmly against the back rest. This is the start position. While exhaling, press against the legs pads of the machine with your legs, and bring your thighs close together. When you feel a slight stretching in your adductors, pause for a count of one squeezing them as you do so. In a controlled movement, return to the start position, inhaling as you do so. Repeat.",
         "category": [
             {
@@ -1364,7 +1364,7 @@
          {
         "id": 106,
         "name": "Barbell Hip Thrusts",
-        "image": "blank",
+        "image": "/assets/barbell-hipthrust.png",
         "description": "Sit on a padded surface with your legs out in front of you and the knees bent. Make sure your back is against a secured bench. Lay a barbell across your lap. Focusing the tension in the glutes, raise your hips skyward, moving the bar up with you. Pause when you feel the contraction in your glutes then slowly lower yourself to the starting position.",
         "category": [
             {
@@ -1376,7 +1376,7 @@
          {
         "id": 107,
         "name": "Barbell Kneeling Squats",
-        "image": "blank",
+        "image": "/assets/barbell-kneeling-squata.png",
         "description": "In a power rack, set the barbell to where your shoulders will be when kneeling. Set up behind the barbell. Kneel on a padded surface. Place yourself underneath the barbell, positioning it across your shoulders. Tighten your core and drive your glutes forward as you lift the barbell from the rack. Slowly sit back, keeping a braced form with your upper body. When your butt touches your calves, drive your glutes forward again as you slowly return to the starting position. Repeat.",
         "category": [
             {
@@ -1388,7 +1388,7 @@
          {
         "id": 108,
         "name": "Cable Hip Extensions",
-        "image": "blank",
+        "image": "/assets/cable-glute-kickback.png",
         "description": "Attach an ankle strap around your right ankle. Stand tall in front of a cable machine with a flat back and tight core. Use the cable machine for balance, if necessary. While balancing on your left foot, move your right foot up and back. Pause at the top of the movement then slowly bring the foot down. Do not let your right foot touch the ground before repeating. Once finished, repeat on the other side.",
         "category": [
             {
@@ -1400,7 +1400,7 @@
          {
         "id": 109,
         "name": "Cable Pull Throughs",
-        "image": "blank",
+        "image": "/assets/cable-pullthrough.png",
         "description": "With your back facing the cable station and the cable resting on the floor between your feet, bend at your knees and take a firm grip of the cable in both hands. Keeping your knees bent at a 45 degree angle, pull the cable up so that it is resting between your knees. With a firm grip on the cable extend your knees and drive your body upwards using your glutes as the prime mover. Hold the top portion while tensing your glutes. Slowly lower yourself back down to the starting position to complete 1 rep.",
         "category": [
             {
@@ -1413,7 +1413,7 @@
          {
         "id": 110,
         "name": "Elevated Glute Bridge",
-        "image": "blank",
+        "image": "/assets/elevated-glute-bridge.png",
         "description": "Position your upper back on a padded bench so that your body runs perpendicular to the bench.  Align your feet so they are about shoulder width apart, with the soles flat on the box with your back and hips elevated from the floor. Slowly lower your body into the gap between the bench and the box allowing your toes to point upward as you do so. Lift your body upwards using the muscles in your lower back and glutes all the way to the top of the extension. Tense you glutes holding the top position before lowering your body back down for the next rep.",
         "category": [
             {
@@ -1426,7 +1426,7 @@
          {
         "id": 111,
         "name": "Fire Hydrants",
-        "image": "blank",
+        "image": "/assets/fire-hydrants.png",
         "description": "Position yourself on all fours on a mat with your palms flat and shoulder-width apart. Place your knees hip-width apart and bend them at a 90 degree angle. Try to relax your core so that your back and abs are in a natural position. Maintain this posture as you raise your right knee and bring it as close to your chest as you can. Now raise your right thigh out to the side, keeping the hips still. Kick your raised leg straight back slowly until it is in line with your torso. Reverse the movement to return to the starting position.",
         "category": [
             {
@@ -1438,7 +1438,7 @@
          {
         "id": 112,
         "name": "Glute Bridge",
-        "image": "blank",
+        "image": "/assets/glute-bridge.png",
         "description": "Lie on an exercise mat with your knees bent so that your feet are flat on the floor. Keep your back straight. Place your hands out to your sides palms flat for stability. Raise your glutes off the floor by extending your hips upward while pushing down through you heels. Continue until your back, hips and thighs are in a straight line. Hold for a count of one. Return to the start position by lowering your hips back to the floor. Pause then repeat.",
         "category": [
             {
@@ -1451,7 +1451,7 @@
          {
         "id": 113,
         "name": "Resistance Band Glute Kickback",
-        "image": "blank",
+        "image": "/assets/resistence-band-glute-kickback.png",
         "description": "Position yourself on the ground supporting yourself on your hands and knees. Hold the handles of a resistance band in each hand. Hook the middle of the band on your left foot, pushing it back until the slack tightens. Brace your core and maintain a flat back as you kick your left leg back and up. Slowly return your leg to the starting position, not allowing the knee to touch the ground. Repeat the movement.",
         "category": [
             {
@@ -1464,7 +1464,7 @@
          {
         "id": 114,
         "name": "Romanian Deadlift",
-        "image": "blank",
+        "image": "/assets/romanian-deadlift.png",
         "description": "Standing tall with a tight core and flat back, hold a barbell or a pair of dumbbells in front of you. Hands should be slightly wider than shoulder-width. Maintaining a tight core and flat back, bend your knees slightly and push your hips back. Keep your arms extended and the weight close to the body. Once you feel the contraction in the back of your legs, slowly return to the starting position.",
         "category": [
             {
@@ -1477,7 +1477,7 @@
              {
         "id": 115,
         "name": "Seated Leg Curl",
-        "image": "blank",
+        "image": "/assets/seated-leg-curl.png",
         "description": "Adjust the seated leg curl machine to position the footpad just above your heels. Sit upright and engage your abs as you position your legs in front of you. Begin to curly your legs back slowly towards you and flex your calf muscles as you do so. Return to the starting position by extending the legs in front of you again.",
         "category": [
             {
@@ -1490,7 +1490,7 @@
              {
         "id": 116,
         "name": "Seated Machine Leg Extension",
-        "image": "blank",
+        "image": "/assets/leg-extensions.png",
         "description": "Sit on a leg extension machine and place your  legs under the pad with your feet pointed forward. The pad should rest on your shins just above your feet and you will need to adjust it to suit. Grip the hand bars (if fitted) firmly. This is the start position. Using  only your quadriceps, fully extend your legs exhaling as you do so. Hold for a count of one. Return to the start position in a smooth movement as you inhale,. The angle at your knee should not go past 90-degrees. Repeat.",
         "category": [
             {
@@ -1503,7 +1503,7 @@
              {
         "id": 117,
         "name": "Single Leg Glute Bridge",
-        "image": "blank",
+        "image": "/assets/single-leg-glute-bridge.png",
         "description": "Lie on an exercise mat with your knees bent so that your feet are flat on the floor. Raise one leg off the floor and bend your knee up towards your chest. Yhis is the start position. Perform the exercise by pushing down through your other heel and pushing your hips up, raising your glutes off the mat. Continue until your hips are in a straight line with your torso. Hold for a count of one. Return to the start position by lowering your hip to the floor. Complete all the repetitions for one set before changing legs.",
         "category": [
             {
@@ -1516,7 +1516,7 @@
              {
         "id": 118,
         "name": "Single Straight Leg Dumbbell Deadlift",
-        "image": "blank",
+        "image": "/assets/single-leg-stiff-leg-deadlift.png",
         "description": " Stand tall with a tight core while holding a pair of dumbbells. Keeping your chest up and your gaze straight ahead, shift all of your bodyweight to your left foot. Bend the right knee, allowing the right foot to lift off the ground. Maintaining a flat back, tilt your upper body forward. Do not allow the dumbbells to pull you down. Control your descent. Simultaneously, allow the right foot to counterbalance the shift in weight. Feel the contraction in your hamstrings and pause once your upper body is parallel with the ground. Slowly return to the starting position.",
         "category": [
             {
@@ -1529,7 +1529,7 @@
              {
         "id": 119,
         "name": "Sissy Squats",
-        "image": "blank",
+        "image": "/assets/sissy-squat.png",
         "description": "Position yourself next to a squat rack or very stable surface. Hold on to this surface with one hand. You may also want to hold a weight plate with the other. This is optional. Make sure your feet are shoulder width apart and have your knees bent slightly. Begin the movement by bending fully at the knees and leaning back. Keep your entire upper body straight all the way down to the knees. Again, use the surface for balance. Once you feel the contraction and burn in your quadriceps, pause and return to the starting position.",
         "category": [
             {
@@ -1542,7 +1542,7 @@
              {
         "id": 120,
         "name": "Smith Machine Leg Press / Vertical Leg Press",
-        "image": "blank",
+        "image": "/assets/smith-machine-leg-press.png",
         "description": "First, lay on the floor without the bar; measure, and place the safety brackets at the height of your squatting limit. Remove the bar from its locks and allow it to rest on the safety brackets before loading with the desired amount of weight. Lay on the floor with your glutes almost directly underneath the bar. Place the balls of your feet on the underside of the lowered bar. Drive the weight upwards using your quadriceps and glutes. Lower the weight back down to the safety brackets to complete one rep.",
         "category": [
             {
@@ -1554,7 +1554,7 @@
              {
         "id": 121,
         "name": "Smith Machine Squat",
-        "image": "blank",
+        "image": "/assets/smith-machine-squat.png",
         "description": "Begin by positioning yourself underneath a Smith Machine barbell. Make sure the bar is across your upper traps and NOT your neck. Place your feet at shoulder-width with your toes pointed slightly out. Brace your core and keep your chest up. Bend first at the knees then at the hips. Lower yourself until your thighs are parallel with the floor. Return to the starting position.",
         "category": [
             {
@@ -1567,7 +1567,7 @@
              {
         "id": 122,
         "name": "Standing Hamstring Curl",
-        "image": "blank",
+        "image": "/assets/standing-single-leg-leg-curl.png",
         "description": "Begin with a light weight and stand facing the machine. Position one leg for the lift by hooking it under the weight pad. Make sure the pads are in a comfortable position around your ankle in order to involve the heel in the movement. Don’t position the pads too high on the calf. Grab hold of the support handles. Flex your knee and lift the pad upwards as far as you can towards your buttocks as you exhale. Lower the leg to the starting position.",
         "category": [
             {
@@ -1580,7 +1580,7 @@
              {
         "id": 123,
         "name": "Stiff Leg Deadlift",
-        "image": "blank",
+        "image": "/assets/stiff-leg-barbell-deadlits.png",
         "description": "Place a barbell on the floor and stand facing it with your feet shoulder width apart, toes pointing forward and your knees slightly bent. This is the start position. As you exhale, bend at the waist keeping your back straight and knees slightly bent until you feel tension in your hamstrings. Grasp the barbell with an overhand grip. Your arms should be fully extended with your hands spaced shoulder width apart. Lift the barbell by extending your hips and waist in a smooth action until you have returned to the upright position, inhaling as you do so. Pause for a count of 1-2. Return the barbell to the floor or just above it by repeating step two. Repeat.",
         "category": [
             {
@@ -1593,7 +1593,7 @@
              {
         "id": 124,
         "name": "Sumo Barbell Deadlift",
-        "image": "blank",
+        "image": "/assets/sumo-deadlift.png",
         "description": "Place a loaded barbell in front of you. Position your feet wider than shoulder width. Have your toes pointing out away from the body. Tighten the core and straighten the lower back. Bend at the knees, lowering your hips down above parallel. Take hold of the barbell with an overhand grip at shoulder width. Focusing the tension in your hamstrings, pull the barbell up. Be sure to keep the barbell close to your body. Drive your hips forward at the top of the movement. Slowly reverse the movement and lower the barbell while maintaining a flat back.",
         "category": [
             {
@@ -1607,7 +1607,7 @@
                  {
         "id": 125,
         "name": "Wall Sits",
-        "image": "blank",
+        "image": "/assets/wall-sit.png",
         "description": "Stand tall against a wall with your head and back touching the wall. Position your feet so that they are shoulder-width apart and a few inches away from the wall. Rest your arms at your sides. Bend your knees and lower into a squat position until your thighs are parallel to the floor and hold the position Return to starting position by straightening your knees and standing tall again.",
         "category": [
             {
@@ -1620,7 +1620,7 @@
                  {
         "id": 126,
         "name": "Sumo Barbell Squat",
-        "image": "blank",
+        "image": "/assets/sumo-barbell-squat.png",
         "description": "Set a barbell on a rack at your shoulder height. Step under the bar and rest the back of your shoulders against the bar. Do not put the bar on your neck. Hold on to the bar using an overhand grip so that your palms are facing forward. Lift the barbell off the rack by pushing up with your legs while straightening your torso. Step away from the rack and position your legs in a wider than shoulder width position and with your toes slightly pointed out. Keep your head up and look straight ahead at all times, as looking down will put you off balance. Ensure your back is straight. This is the start position. As you inhale, slowly lower the bar by bending your knees while keeping a straight posture with your head up. Continue down until the angle between you upper legs and calves is slightly less than 90-degrees . As a guide, the front of your knees should be in line with your toes. Do not allow your knees to extend out beyond your toes. Hold for a count of one. As you exhale, raise the bar back to the start position, by pushing through your heels as you straighten your legs. Pause for a count of one. Repeat.",
         "category": [
             {

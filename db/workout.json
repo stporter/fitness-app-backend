@@ -5,55 +5,55 @@
             {
                 "id":1,
                 "name":"Flat Barbell Bench Press",
-                "image":"blank",
+                "image":"/assets/flat-barbell-bench-press-form.png",
                 "description":"The barbell bench press exercise is an upper body pressing movement. Commonly used to build muscle size and body strength; this exercise targets the upper body muscles including: chest, triceps, and shoulders.The barbell bench press requires the person working out to lie flat on a bench which allows for improved muscle stability and the ability to lift a heavy amount of weight. Which will lead to greater muscle development.The barbell bench press exercise is a great for people looking to build strength, increase body size, and power."
             },
             {
                 "id":5,
                 "name":"Incline Dumbbell Bench Press",
-                "image":"blank",
+                "image":"/assets/incline-dumbbell-bench-press-form.png",
                 "description":"Set up an incline bench so the back rest is at about a 45 degree angle. Hold a dumbbell in each hand with an overhand grip. (Palms facing away from you) Sit on the bench with your feet flat on the floor and your back and shoulders pressed firmly back against the back rest. Raise the dumbbells up to your shoulder level, keeping your elbows bent at 90 degrees. Push the dumbbells up and away from you using your shoulders and chest while straightening your arms. Continue raising the dumbbells until your arms are straight and the dumbbells are suspended above your chest. Hold for a count of one. Lower the dumbbells back towards your chest by relaxing your chest and shoulders while bending your elbows. Hold for a count of one Repeat."
             },
             {
                 "id":9,
                 "name":"Seated Machine Fly",
-                "image":"blank",
+                "image":"/assets/machine-fly-form.png",
                 "description":"Sit on a pec deck machine with your back flat against the back rest. Grip the handles and make sure your arms are parallel to the floor. If not parallel, adjust the seat or handles accordingly. This is the start position. Exhale and slowly push the handles together squeezing your chest to the middle as you do so. Hold for a count of one. Inhale as you return to the starting position in a controlled movement. Repeat."
             },
             {
                 "id":21,
                 "name":"Standing Barbell Bicep Curls",
-                "image":"blank",
+                "image":"/assets/barbell-bicep-curl.png",
                 "description":"Stand straight holding a barbell with an underhand grip, your hands shoulder width apart and your arms fully extended towards the floor. Keep your elbows close to your sides.Your palms should be facing away from you. This is the start position. Keeping your upper arms stationary, curl the barbell forward and up in a smooth arcing motion while exhaling. Only your forearms should move. Continue upwards until  the bar is at shoulder level with your biceps fully contracted. Hold for a count of one while squeezing your biceps. Inhale as you return to the starting position. Repeat."
             },
             {
                 "id":24,
                 "name":"Machine Preacher Bicep Curl",
-                "image":"blank",
+                "image":"/assets/machine-preacher-curl.png",
                 "description":"Adjust the seat height so that you can comfortably hang your arms over the pad of the machine. Make sure your shoulders are forward, allowing you to bring your arms closer than shoulder-width. Using an underhand grip, secure the handle of the machine bar. Keep a slight bend in the elbows at all times. Move the bar up, towards your face, focusing the tension in the biceps. Pause at the top and slowly lower to the starting position. Do not allow the weight to touch the stack and do not lock out your elbows. Repeat."
             },
             {
                 "id":32,
                 "name":"Standing Dumbbell Bicep Hammer Curl",
-                "image":"Blank",
+                "image":"/assets/standing-dumbbell-hammer-curls.png",
                 "description":"Stand straight holing a dumbbell in each hand with a neutral grip. Keep your arms fully extended with your palms facing in to your sides. Keep your elbows tucked in to your sides. This is the start position. Keeping your upper arm stationary, exhale and curl the dumbbells up towards your shoulders. Continue  raising the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level. Hold for a count of one and squeeze your biceps. Return to the start position in a smooth movement, inhaling as you do so. Repeat."
             },
             {
                 "id":34,
                 "name":"Machine Seated Tricep Dips",
-                "image":"blank",
+                "image":"/assets/seated-machine-tricep-dip.png",
                 "description":"Sit at the Triceps Dip machine but make sure to brace your core throughout the movement. Place your hands on the bar with your elbows pointing behind you. Your arms will make a 90 degree angle. Slowly push down on the bars, focusing all the movement in your triceps. When you reach the bottom, pause and do not lock out your elbows. Slowly return to the starting position but do not let the weight touch the stack."
             },
              {
                 "id":49,
                 "name":"Tricep Cable Pushdowns",
-                "image":"blank",
+                "image":"/assets/cable-pushdown.png",
                 "description":"Set up a cable station with a straight bar on attached to the top pulley. Grip the bar with an overhand grip, with your hands slightly less than shoulder width apart. Position your feet shoulder width apart, with knees slightly bent for stability. Pull the bar down until your forearms are parallel to the floor with your elbows close to your body and your wrists locked in a straight position. This is your staring point. Moving only your forearms, push the bar down towards the floor until your arms are fully extended and you feel a stretch in your triceps. Hold for a count of one and squeeze your triceps. Return to the start position moving your forearms only. Hold for a count of one then repeat."
             },
              {
                 "id":38,
                 "name":"Cable Tricep Kickback",
-                "image":"post",
+                "image":"/assets/cable-tricep-kickback.png",
                 "description":"Grab the handle of a lowered cable pulley with your right hand. Place your left foot forward and your right foot behind you. Keep a tight core and flat back as you bend at the hips, resting your left forearm on your left knee. Raise your right elbow up and keep it at your side. Extend your right hand behind you. Pause and slowly lower to the starting position."
             }
             
